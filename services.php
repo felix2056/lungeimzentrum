@@ -229,7 +229,7 @@
             <div class="pattern-layer-two" style="background-image:url(/images/pattern-20.png)"></div>
             <div class="container">
                 <div class="title-box">
-                    <h2>With access to 24 hour emergency assistance, you can continue to help others.</h2>
+                    <h2>Mit Zugang zur 24-Stunden-Notfallhilfe können Sie anderen weiterhin helfen.</h2>
                 </div>
                 <div class="inner-section">
                     <div class="row">
@@ -237,32 +237,31 @@
                         <div class="col-lg-4 col-md-12 col-sm-12">
                             <div class="form-column">
                                 <div class="inner-column">
-                                    <h3>Fill up the form</h3>
+                                    <h3>Fülle das Formular aus</h3>
 
                                     <div class="calender-form">
-
                                         <form method="post" action="contact.html">
-
                                             <div class="form-group">
-                                                <label><span class="icon icon-doctor"></span> Purpose for Visit</label>
+                                                <label><span class="icon icon-doctor"></span> Zweck des Besuchs</label>
                                                 <select class="custom-select-box">
-                                                    <option>Select Visit Type</option>
-                                                    <option>Type One</option>
-                                                    <option>Type Two</option>
-                                                    <option>Type Three</option>
-                                                    <option>Type Four</option>
+                                                    <option>Wählen Sie den Besuchstyp aus</option>
+                                                    <option>Geben Sie eins ein</option>
+                                                    <option>Geben Sie zwei ein</option>
+                                                    <option>Geben Sie Drei ein</option>
+                                                    <option>Geben Sie vier ein</option>
                                                 </select>
                                             </div>
                                             <div class="form-group">
-                                                <label><span class="icon flaticon-new-user"></span> Enter your Name</label>
-                                                <input type="text" name="username" placeholder="Type your name" required="">
+                                                <label><span class="icon flaticon-new-user"></span> Gib deinen Namen ein</label>
+                                                <input type="text" name="username" placeholder="Type your name"
+                                                    required="">
                                             </div>
                                             <div class="form-group">
-                                                <label><span class="icon icon-envelope"></span> Your Mail Address</label>
+                                                <label><span class="icon icon-envelope"></span> Ihre Mailadresse</label>
                                                 <input type="text" name="email" placeholder="Email" required="">
                                             </div>
                                             <div class="form-group">
-                                                <label><span class="icon flaticon-phone-receiver"></span> Your Mail Address</label>
+                                                <label><span class="icon flaticon-phone-receiver"></span> Ihre Mailadresse</label>
                                                 <input type="text" name="phone" placeholder="Phone" required="">
                                             </div>
                                         </form>
@@ -276,8 +275,8 @@
                                 <div class="inner-column">
 
                                     <div class="calender-title">
-                                        <div class="title">Need emergency?</div>
-                                        <h3>Book an <span class="theme_color">Appointment</span></h3>
+                                        <div class="title">Brauchen Sie einen Notfall?</div>
+                                        <h3>Vereinbare einen <span class="theme_color">Termin</span></h3>
                                     </div>
                                     <div class="calender-carousel owl-carousel owl-theme">
 
@@ -322,18 +321,20 @@
 
                                                     <div class="more-boxed">
                                                         <div class="clearfix">
-                                                            <div class="more">more...</div>
-                                                            <div class="more">more...</div>
-                                                            <div class="more">more...</div>
-                                                            <div class="more">more...</div>
-                                                            <div class="more">more...</div>
+                                                            <div class="more">mehr...</div>
+                                                            <div class="more">mehr...</div>
+                                                            <div class="more">mehr...</div>
+                                                            <div class="more">mehr...</div>
+                                                            <div class="more">mehr...</div>
                                                         </div>
                                                     </div>
                                                 </div>
 
                                                 <div class="button-box">
-                                                    <a href="#" class="theme-btn btn-style-three"><span class="arrow icon-chevron-left"></span> Cancel</a>
-                                                    <a href="#" class="theme-btn btn-style-three">Book Now <span class="arrow icon-chevron-right"></span></a>
+                                                    <a href="#" class="theme-btn btn-style-transparent">Stornieren <span
+                                                            class="arrow icon icon-arrow_right"></span></a>
+                                                    <a href="#" class="theme-btn btn-style-three">Buchen Sie jetzt <span
+                                                            class="arrow icon-arrow_right"></span></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -379,18 +380,20 @@
 
                                                     <div class="more-boxed">
                                                         <div class="clearfix">
-                                                            <div class="more">more...</div>
-                                                            <div class="more">more...</div>
-                                                            <div class="more">more...</div>
-                                                            <div class="more">more...</div>
-                                                            <div class="more">more...</div>
+                                                            <div class="more">mehr...</div>
+                                                            <div class="more">mehr...</div>
+                                                            <div class="more">mehr...</div>
+                                                            <div class="more">mehr...</div>
+                                                            <div class="more">mehr...</div>
                                                         </div>
                                                     </div>
                                                 </div>
 
                                                 <div class="button-box">
-                                                    <a href="#" class="theme-btn btn-style-three"><span class="arrow icon-chevron-left"></span> Cancel</a>
-                                                    <a href="#" class="theme-btn btn-style-three">Book Now <span class="arrow icon-chevron-right"></span></a>
+                                                    <a href="#" class="theme-btn btn-style-transparent">Stornieren <span
+                                                            class="arrow icon icon-arrow_right"></span></a>
+                                                    <a href="#" class="theme-btn btn-style-three">Buchen Sie jetzt <span
+                                                            class="arrow icon-arrow_right"></span></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -436,18 +439,20 @@
 
                                                     <div class="more-boxed">
                                                         <div class="clearfix">
-                                                            <div class="more">more...</div>
-                                                            <div class="more">more...</div>
-                                                            <div class="more">more...</div>
-                                                            <div class="more">more...</div>
-                                                            <div class="more">more...</div>
+                                                            <div class="more">mehr...</div>
+                                                            <div class="more">mehr...</div>
+                                                            <div class="more">mehr...</div>
+                                                            <div class="more">mehr...</div>
+                                                            <div class="more">mehr...</div>
                                                         </div>
                                                     </div>
                                                 </div>
 
                                                 <div class="button-box">
-                                                    <a href="#" class="theme-btn btn-style-three"><span class="arrow icon-chevron-left"></span> Cancel</a>
-                                                    <a href="#" class="theme-btn btn-style-three">Book Now <span class="arrow icon-chevron-right"></span></a>
+                                                    <a href="#" class="theme-btn btn-style-transparent">Stornieren <span
+                                                            class="arrow icon icon-arrow_right"></span></a>
+                                                    <a href="#" class="theme-btn btn-style-three">Buchen Sie jetzt <span
+                                                            class="arrow icon icon-arrow_right"></span></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -463,10 +468,10 @@
         <section class="testimonial-section style-two alternate">
             <div class="pattern-layer" style="background-image:url(/images/pattern-14.png)"></div>
             <div class="pattern-layer-two" style="background-image:url(/images/pattern-15.png)"></div>
-            <div class="container">
 
+            <div class="container">
                 <div class="section-title text-center">
-                    <h2>Service Recipient Says</h2>
+                    <h2>Sagt der Leistungsempfänger</h2>
                 </div>
                 <div class="testimonials-carousel owl-carousel owl-theme">
 
@@ -474,9 +479,9 @@
                         <div class="inner-box">
                             <div class="content-box">
                                 <div class="quote-icon icon-quote2"></div>
-                                <p class="text">Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious.</p>
+                                <p class="text">Von der Minute an, als ich eintrat, war es eine schöne und ruhige Umgebung. Die Rezeptionistin begrüßte mich sofort und bestätigte meinen Termin.</p>
                                 <h3>Kolis Muller</h3>
-                                <div class="designation">NY Citizen</div>
+                                <p class="designation">NY Citizen</p>
                             </div>
                             <div class="image-box">
                                 <img src="/images/author-2.png" alt="">
@@ -488,9 +493,9 @@
                         <div class="inner-box">
                             <div class="content-box">
                                 <div class="quote-icon icon-quote2"></div>
-                                <p class="text">Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious.</p>
+                                <p class="text">Dies war mein erster Besuch bei Juno Medical. Die Terminvereinbarung war einfach, das Einchecken über die Touchpads verlief reibungslos.</p>
                                 <h3>Kolis Muller</h3>
-                                <div class="designation">NY Citizen</div>
+                                <p class="designation">NY Citizen</p>
                             </div>
                             <div class="image-box">
                                 <img src="/images/author-3.png" alt="">
@@ -502,9 +507,9 @@
                         <div class="inner-box">
                             <div class="content-box">
                                 <div class="quote-icon icon-quote2"></div>
-                                <p class="text">Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious.</p>
+                                <p class="text">Ich hatte die beste Erfahrung in dieser Klinik. Dr. Ogo ist eine der nettesten Ärztinnen, die ich je getroffen habe, sie ist super aufmerksam und sorgt dafür, dass Sie sich wirklich wohl fühlen.</p>
                                 <h3>Kolis Muller</h3>
-                                <div class="designation">NY Citizen</div>
+                                <p class="designation">NY Citizen</p>
                             </div>
                             <div class="image-box">
                                 <img src="/images/author-4.png" alt="">

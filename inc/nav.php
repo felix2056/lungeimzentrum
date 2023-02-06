@@ -33,10 +33,10 @@
         <div class="container">
             <div class="xs-navbar clearfix">
                 <div class="logo-outer">
-                    <div class="logo"><a href="/"><img src="/images/logo-nobg.png" alt="" title=""></a></div>
+                    <div class="logo"><a href="/"><img src="/images/logo-nobg.png" width="120" height="130"></a></div>
                 </div>
-                <nav class="elementskit-navbar">
 
+                <nav class="elementskit-navbar">
                     <div class="xs-mobile-search">
                         <a href="/#modal-popup-2" class="xs-modal-popup"><i class="icon icon-search"></i></a>
                     </div>
