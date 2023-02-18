@@ -22,7 +22,7 @@
                     </div>
                 </div>
 
-                <div class="footer-column col-lg-3 col-md-6">
+                <!-- <div class="footer-column col-lg-3 col-md-6">
                     <div class="footer-widget link-widget">
                         <h2>Unsere Abteilungen</h2>
                         <ul class="footer-list">
@@ -36,19 +36,19 @@
                             <li><a href="#">Specialised Support Service</a></li>
                         </ul>
                     </div>
-                </div>
+                </div> -->
 
-                <div class="footer-column col-lg-3 col-md-6">
+                <div class="footer-column col-lg-6 col-md-6">
                     <div class="footer-widget times-widget">
                         <h2>Wir sind verfügbar</h2>
                         <ul class="time-list">
-                            <li>Monday :<span>08.00 - 10.00</span></li>
-                            <li>Tuesday :<span>08.00 - 10.00</span></li>
-                            <li>Wednesday :<span>08.00 - 10.00</span></li>
-                            <li>Tuesday :<span>08.00 - 10.00</span></li>
-                            <li>Thursday :<span>08.00 - 10.00</span></li>
-                            <li>Friday :<span>09.00 - 07.00</span></li>
-                            <li>Saturday :<span>10.00 - 05.00</span></li>
+                            <li>Monday :<span>08.12 - 13.17</span></li>
+                            <li>Tuesday :<span>08.12 - 13.17</span></li>
+                            <li>Wednesday :<span>08.12 - 13.17</span></li>
+                            <li>Tuesday :<span>08.12 - 13.17</span></li>
+                            <li>Thursday :<span>08.12 - 13.17</span></li>
+                            <li>Friday :<span>08.12 - 13.17</span></li>
+                            <li>Saturday :<span>08.12 - 13.17</span></li>
                         </ul>
                     </div>
                 </div>

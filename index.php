@@ -36,7 +36,7 @@
                             <div class="banner-column col-lg-6 col-md-12 col-sm-12">
                                 <div class="title wow fadeInUp" data-wow-delay="250ms">Lunge im Zentrum</div>
                                 <h2 class="wow fadeInUp" data-wow-delay="500ms">Fachärzte für Pneumologie und allgemeine Innere Medizin</h2>
-                                <p class="text wow fadeInUp" data-wow-delay="750ms">Unsere Praxis für Pneumologie und Schlafmedizin befindet sich in barrierefreien Räumen im Zentrum von Bülach, wenige Gehminuten vom Bahnhof entfernt.</p>
+                                <p class="text wow fadeInUp" data-wow-delay="750ms">Wir sind sowohl mit öffentlichen Verkehrsmitteln als auch mit dem Auto gut zu erreichen. Unsere Praxis ist mit barrierefreien Räumen ausgestattet. Der Haupteingang befindet sich auf der rechten Seite des Gebäudes, es gibt linksseitig einen stufenfreien Direktzugang.</p>
                                 <div class="link-box wow fadeInUp" data-wow-delay="1000ms">
                                     <a href="department.html" class="theme-btn btn-style-two"><i>Book Now</i> <span
                                             class="arrow icon icon-arrow_right"></span></a>
@@ -57,7 +57,7 @@
                             <div class="banner-column col-lg-6 col-md-12 col-sm-12">
                                 <div class="title wow fadeInUp" data-wow-delay="250ms">Lunge im Zentrum</div>
                                 <h2 class="wow fadeInUp" data-wow-delay="500ms">Fachärzte für Pneumologie und allgemeine Innere Medizin</h2>
-                                <p class="text wow fadeInUp" data-wow-delay="750ms">Unsere Praxis für Pneumologie und Schlafmedizin befindet sich in barrierefreien Räumen im Zentrum von Bülach, wenige Gehminuten vom Bahnhof entfernt.</p>
+                                <p class="text wow fadeInUp" data-wow-delay="750ms">Als erfahrene Lungenfachärzte bieten wir in unserer neu eröffneten Praxis das gesamte Spektrum der Pneumologie an inklusive Leistungsdiagnostik. Ebenfalls machen wir die Diagnostik und Therapie der schlafgebundenen Atemstörungen.</p>
                                 <div class="link-box wow fadeInUp" data-wow-delay="1000ms">
                                     <a href="department.html" class="theme-btn btn-style-two"><i>Book Now</i> <span
                                             class="arrow icon icon-arrow_right"></span></a>
@@ -240,20 +240,21 @@
             <div class="container">
 
                 <div class="section-title text-center">
-                    <h2>Dienstleistungen, die wir bei Lungs im Zentrum anbieten</h2>
-                    <p class="text">Unsere Lungenklinik spielt eine landesweite Rolle in der Lungenmedizin und bietet eine umfassende Versorgung
-                        Leistungsangebot für Patienten mit Lungenerkrankungen.</p>
+                    <h2>Unser Angebot</h2>
+                    <p class="text">Lungenfunktionsmessungen, Gasaustausch, Blutgasanalysen, Sofort-Labor inkl. Eosinophilenzahl, Spiroergometrie, Schlafapnoeabklärung und entsprechende Therapieeinleitung.</p>
+                    <p class="text">Egal ob Sie zu uns wegen Husten oder Atemnot, COPD oder Asthma und Allergien, Rauchen oder Schnarchen kommen: Neben der optimalen medizinischen Diagnostik ist uns eine umfassende und fürsorgliche Behandlung sehr wichtig.</p>
+                    <p class="text">Wir hoffen, Ihnen einen nützlichen Überblick unserer Lungenpraxis gegeben zu haben. Bei Fragen nehmen Sie bitte mit uns Kontakt auf. Wir sind gerne für Sie da.</p>
                 </div>
-                <div class="row">
 
+                <div class="row">
                     <div class="services-block col-lg-6 col-md-12 col-sm-12">
                         <div class="inner-box">
                             <div class="content">
                                 <div class="icon-box">
                                     <span class="icon"><img src="/images/icon-1.png" alt=""></span>
                                 </div>
-                                <h3><a href="#">Lungenfunktionsmessungen</a></h3>
-                                <p>Unser außergewöhnliches und erfahrenes Personal widmet sich der Verbesserung der pulmonologischen Gesundheit unserer Patienten und der Verbesserung des Lächelns.</p>
+                                <h3><a href="#">Lungenfunktion</a></h3>
+                                <p>Spirometrie, Bodyplethysmographie (grosse Lungenfunktion), Bronchospasmolysetest, Bronchoprovokation mit Methacholin, 6-Minuten-Gehtest, CO-Diffusionsmessung, Atemantriebsmessungen P01/Pmax, Arterielle Blutgasanalyse, Ruhe-EKG, Ergometrie und Ergospirometrie, Ergooxtensiometrie, EIA-Test (anstrengungsinduziertes Asthma)</p>
                             </div>
                         </div>
                     </div>
@@ -264,8 +265,8 @@
                                 <div class="icon-box">
                                     <span class="icon"><img src="/images/icon-2.png" alt=""></span>
                                 </div>
-                                <h3><a href="#">Gasaustausch</a></h3>
-                                <p>Unser außergewöhnliches und erfahrenes Personal widmet sich der Verbesserung der pulmonologischen Gesundheit unserer Patienten und der Verbesserung des Lächelns.</p>
+                                <h3><a href="#">Allergologie</a></h3>
+                                <p>Haut-Prick-Test, Bluttests, FeNO</p>
                             </div>
                         </div>
                     </div>
@@ -276,8 +277,8 @@
                                 <div class="icon-box">
                                     <span class="icon"><img src="/images/icon-3.png" alt=""></span>
                                 </div>
-                                <h3><a href="#">Blutgasanalysen</a></h3>
-                                <p>Unser außergewöhnliches und erfahrenes Personal widmet sich der Verbesserung der pulmonologischen Gesundheit unserer Patienten und der Verbesserung des Lächelns.</p>
+                                <h3><a href="#">Ultraschall</a></h3>
+                                <p>Pleurasonographie, Pleurapunktion (diagnostisch / therapeutisch), Pleurx-Katheter Einlage (ambulant sowie stationär)</p>
                             </div>
                         </div>
                     </div>
@@ -288,8 +289,8 @@
                                 <div class="icon-box">
                                     <span class="icon"><img src="/images/icon-4.png" alt=""></span>
                                 </div>
-                                <h3><a href="#">Sofort-Labor</a></h3>
-                                <p>Unser außergewöhnliches und erfahrenes Personal widmet sich der Verbesserung der pulmonologischen Gesundheit unserer Patienten und der Verbesserung des Lächelns.</p>
+                                <h3><a href="#">Endoskopie</a></h3>
+                                <p>Bronchoskopie mit, TBB, BAL, FNP, Schleimhautbiopsie, bronchiale Biopsie, Endobronchialen Ultraschall mit TBNA, Internistische Thorakoskopie mit, Pleurodese, Endoskopische Eingriffe führen wir als Konsiliar/Belegärzte am Spital Bülach durch.</p>
                             </div>
                         </div>
                     </div>
@@ -695,7 +696,7 @@
             </div>
         </section>
 
-        <section class="featured-section">
+        <!-- <section class="featured-section">
             <div class="pattern-layer" style="background-image:url(/images/pattern-1.png)"></div>
             <div class="container">
                 <div class="row">
@@ -734,7 +735,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
 
         <section class="container-fluid">
             <div class="pattern-layer" style="background-image:url(/images/pattern-2.png)"></div>
@@ -793,7 +794,7 @@
             </div>
         </section>
 
-        <section class="appointment-section">
+        <!-- <section class="appointment-section">
             <div class="pattern-layer" style="background-image:url(/images/pattern-1.png)"></div>
             <div class="container">
                 <div class="title-box">
@@ -1033,9 +1034,9 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
 
-        <section class="emergency-section" style="background-image:url(/images/3.jpg)">
+        <!-- <section class="emergency-section" style="background-image:url(/images/3.jpg)">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6 col-md-12">
@@ -1054,7 +1055,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
 
         <section class="gallery-section">
             <div class="image-layer" style="background-image:url(/images/4.jpg)"></div>
@@ -1198,7 +1199,7 @@
             </div>
         </section>
 
-        <section class="events-section">
+        <!-- <section class="events-section">
             <div class="pattern-layer-two" style="background-image:url(/images/pattern-5.png)"></div>
             
             <div class="container">
@@ -1279,9 +1280,9 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
 
-        <section class="testimonial-section">
+        <!-- <section class="testimonial-section">
             <div class="container">
 
                 <div class="section-title text-center">
@@ -1332,7 +1333,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
 
         <section class="news-section">
             <div class="pattern-layer-one" style="background-image:url(/images/pattern-6.png)"></div>
@@ -1510,7 +1511,7 @@
             </div>
         </section>
 
-        <section class="sponsors-section">
+        <!-- <section class="sponsors-section">
             <div class="container">
                 <div class="sponsors-outer">
 
@@ -1542,7 +1543,7 @@
                     </ul>
                 </div>
             </div>
-        </section>
+        </section> -->
 
         <section class="fullwidth-section-two">
             <div class="outer-container">
@@ -1570,9 +1571,9 @@
                     <div class="right-column" style="background-image:url(/images/6.jpg)">
                         <div class="inner-column">
 
-                            <a href="tel:+1-812-243-7969" class="phone">
+                            <a href="tel:+490800336655" class="phone">
                                 <span class="icon-box flaticon-24-hours"></span>
-                                <span class="title">Medizinische Notfallversorgung</span><strong>+1-812-243-7969</strong>
+                                <span class="title">Medizinische Notfallversorgung</span><strong>0800336655</strong>
                             </a>
                         </div>
                     </div>

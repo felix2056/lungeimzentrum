@@ -164,7 +164,7 @@
         </section>
 
 
-        <section class="sponsors-section">
+        <!-- <section class="sponsors-section">
             <div class="container">
                 <div class="sponsors-outer">
 
@@ -196,7 +196,7 @@
                     </ul>
                 </div>
             </div>
-        </section>
+        </section> -->
 
 
         <section class="fullwidth-section-two">
@@ -205,27 +205,29 @@
 
                     <div class="left-column" style="background-image:url(/images/5.jpg)">
                         <div class="inner-column">
-                            <h2>Subscribe to our <br> Newsletter</h2>
+                            <h2>Abonnieren Sie unsere <br> Newsletter</h2>
 
                             <div class="subscribe-form">
                                 <form method="post" action="contact.html">
                                     <div class="form-group">
-                                        <input type="email" name="email" value="" placeholder="Enter your mail here" required="">
-                                        <button type="submit" class="theme-btn subscribe-btn"><span class="icon icon-envelope3"></span> Subscribe</button>
+                                        <input type="email" name="email" value="" placeholder="Enter your mail here"
+                                            required="">
+                                        <button type="submit" class="theme-btn subscribe-btn"><span
+                                                class="icon icon-envelope3"></span> Abonnieren</button>
                                     </div>
                                 </form>
                             </div>
 
-                            <p class="text">***We Promise, no spam!</p>
+                            <p class="text">***Wir versprechen, kein Spam!</p>
                         </div>
                     </div>
 
                     <div class="right-column" style="background-image:url(/images/6.jpg)">
                         <div class="inner-column">
 
-                            <a href="tel:+1-812-243-7969" class="phone">
+                            <a href="tel:+490800336655" class="phone">
                                 <span class="icon-box flaticon-24-hours"></span>
-                                <span class="title">Emergency Medical Care</span><strong>+1-812-243-7969</strong>
+                                <span class="title">Medizinische Notfallversorgung</span><strong>0800336655</strong>
                             </a>
                         </div>
                     </div>
@@ -266,7 +268,7 @@
                                 <ul class="list-style-one">
                                     <li><span class="icon flaticon-map-1"></span>Rock St 12, Newyork City, USA</li>
                                     <li><span class="icon flaticon-telephone"></span>(000) 000-000-0000</li>
-                                    <li><span class="icon flaticon-letter"></span><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="2e634b4a47544d416e49434f4742004d4143">[email&nbsp;protected]</a></li>
+                                    <li><span class="icon flaticon-letter"></span>enquires@lungeimzentrum.com</li>
                                     <li><span class="icon flaticon-clock-2"></span>Week Days: 09.00 to 18.00 Sunday: Closed</li>
                                 </ul>
                             </div>

@@ -9,13 +9,12 @@
                     <li>
                         <a href="/mailto:enquires@lungeimzentrum.com">
                             <span class="icon flaticon-letter"></span>
-                            <span>:enquires@lungeimzentrum.com</span>
+                            <span>enquires@lungeimzentrum.com</span>
                         </a>
                     </li>
                 </ul>
 
-                <div class="top-right clearfix">
-
+                <!-- <div class="top-right clearfix">
                     <div class="cart-btn">
                         <a href="/#" class="flaticon-cart offset-side-bar cart-icon"><span class="total-cart">3</span></a>
                     </div>
@@ -23,7 +22,7 @@
                     <div class="nav-box">
                         <div class="nav-btn nav-toggler navSidebar-button"><span class="icon flaticon-menu-3"></span></div>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>
@@ -58,12 +57,8 @@
                             <li>
                                 <a href="/">Home</a>
                             </li>
-                            <li class="elementskit-dropdown-has"><a href="/#">About</a>
-                                <ul class="elementskit-dropdown elementskit-submenu-panel">
-                                    <li><a href="/about.php">About</a></li>
-                                    <li><a href="/pricing.php">Pricing</a></li>
-                                    <li><a href="/appointment.php">Appointment</a></li>
-                                </ul>
+                            <li>
+                                <a href="/about.php">About</a>
                             </li>
                             <li><a href="/department.php">Department</a></li>
                             <li><a href="/services.php">Services</a></li>
