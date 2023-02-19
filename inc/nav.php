@@ -60,7 +60,7 @@
                             <li>
                                 <a href="/about.php">About</a>
                             </li>
-                            <li><a href="/department.php">Department</a></li>
+                            <!-- <li><a href="/department.php">Department</a></li> -->
                             <li><a href="/services.php">Services</a></li>
                             <li><a href="/contact.php">Contact</a></li>
                             <!-- <li class="elementskit-dropdown-has"><a href="/#">Doctor</a>

@@ -7,11 +7,11 @@
                         <div class="logo">
                             <a href="/"><img src="/images/logo-nobg.png" alt="" style="width: 120px;height: 70px;"></a>
                         </div>
-                        <p class="text">Wir hoffen, Ihnen einen nützlichen Überblick unserer Lungenpraxis gegeben zu haben. Bei Fragen nehmen Sie bitte mit uns Kontakt auf. Wir sind gerne für Sie da.</p>
+                        <!-- <p class="text">Wir hoffen, Ihnen einen nützlichen Überblick unserer Lungenpraxis gegeben zu haben. Bei Fragen nehmen Sie bitte mit uns Kontakt auf. Wir sind gerne für Sie da.</p> -->
                         <ul class="list-style-two">
-                            <li><a href="contact.html#map-location"><span class="icon  flaticon-map-pin-marked"></span>29 Union Square W <br> New
-                                    York, NY 10003, USA</a></li>
-                            <li><a href="tel:+1-212-243-7969"><span class="icon flaticon-phone"></span>+1-212-243-7969</a></li>
+                            <!-- <li><a href="contact.html#map-location"><span class="icon  flaticon-map-pin-marked"></span>29 Union Square W <br> New
+                                    York, NY 10003, USA</a></li> -->
+                            <li><a href="tel:+490800336655"><span class="icon flaticon-phone"></span>0800336655</a></li>
                             <li>
                                 <a href="mailto:enquires@lungeimzentrum.com">
                                     <span class="icon flaticon-mail"></span>

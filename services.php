@@ -20,7 +20,7 @@
             <div class="container">
                 <div class="clearfix">
                     <div class="pull-left">
-                        <h2>Our Service</h2>
+                        <h2>Unsere Services</h2>
                     </div>
                     <div class="pull-right">
                         <ul class="breadcrumbs">
@@ -47,8 +47,8 @@
                                 <div class="icon-box">
                                     <span class="icon icon-heart1"></span>
                                 </div>
-                                <h3><a href="services-detail.html">Community Services</a></h3>
-                                <p class="text">Behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                                <h3><a href="services-detail.html">Lungenfunktion</a></h3>
+                                <p class="text">Spirometrie, Bodyplethysmographie (grosse Lungenfunktion), Bronchospasmolysetest, Bronchoprovokation mit Methacholin, 6-Minuten-Gehtest, CO-Diffusionsmessung, Atemantriebsmessungen P01/Pmax, Arterielle Blutgasanalyse, Ruhe-EKG, Ergometrie und Ergospirometrie, Ergooxtensiometrie, EIA-Test (anstrengungsinduziertes Asthma)</p>
                             </div>
                         </div>
                     </div>
@@ -62,8 +62,8 @@
                                 <div class="icon-box">
                                     <span class="icon icon-brifecase-hospital2"></span>
                                 </div>
-                                <h3><a href="services-detail.html">Support Service</a></h3>
-                                <p class="text">Behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                                <h3><a href="services-detail.html">Allergologie</a></h3>
+                                <p class="text">Haut-Prick-Test, Bluttests, FeNO</p>
                             </div>
                         </div>
                     </div>
@@ -77,8 +77,8 @@
                                 <div class="icon-box">
                                     <span class="icon icon-capsule"></span>
                                 </div>
-                                <h3><a href="services-detail.html">Trauma &amp; intensive care</a></h3>
-                                <p class="text">Behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                                <h3><a href="services-detail.html">Ultraschall</a></h3>
+                                <p class="text">Pleurasonographie, Pleurapunktion (diagnostisch / therapeutisch), Pleurx-Katheter Einlage (ambulant sowie stationär)</p>
                             </div>
                         </div>
                     </div>
@@ -92,8 +92,8 @@
                                 <div class="icon-box">
                                     <span class="icon icon-ambulance"></span>
                                 </div>
-                                <h3><a href="services-detail.html">Aged Care Diagnosis</a></h3>
-                                <p class="text">Behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                                <h3><a href="services-detail.html">Endoskopie</a></h3>
+                                <p class="text">Bronchoskopie mit, TBB, BAL, FNP, Schleimhautbiopsie, bronchiale Biopsie, Endobronchialen Ultraschall mit TBNA, Internistische Thorakoskopie mit, Pleurodese, Endoskopische Eingriffe führen wir als Konsiliar/Belegärzte am Spital Bülach durch.</p>
                             </div>
                         </div>
                     </div>
@@ -107,8 +107,8 @@
                                 <div class="icon-box">
                                     <span class="icon icon-doctor"></span>
                                 </div>
-                                <h3><a href="services-detail.html">Health Investigation</a></h3>
-                                <p class="text">Behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                                <h3><a href="services-detail.html">Spiroergometrie</a></h3>
+                                <p class="text">Unser außergewöhnliches und erfahrenes Personal widmet sich der Verbesserung der pulmonologischen Gesundheit unserer Patienten und der Verbesserung des Lächelns.</p>
                             </div>
                         </div>
                     </div>
@@ -122,8 +122,8 @@
                                 <div class="icon-box">
                                     <span class="icon icon-heart-machine"></span>
                                 </div>
-                                <h3><a href="services-detail.html">Medical &amp; Surgical</a></h3>
-                                <p class="text">Behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                                <h3><a href="services-detail.html">Schlafapnoe Abklärung</a></h3>
+                                <p class="text">Unser außergewöhnliches und erfahrenes Personal widmet sich der Verbesserung der pulmonologischen Gesundheit unserer Patienten und der Verbesserung des Lächelns.</p>
                             </div>
                         </div>
                     </div>
@@ -133,9 +133,9 @@
 
         <section class="video-section style-three" style="background-image:url(/images/22.jpg)">
             <div class="container">
-                <h2>We are pleased to offer you the chance to have the healthy</h2>
+                <h2>Wir freuen uns, Ihnen die Möglichkeit zu bieten, das Gesunde zu haben</h2>
                 <a href="https://www.youtube.com/watch?v=Fvae8nxzVz4" class="play-button" data-fancybox="gallery" data-caption=""><i class="icon flaticon-play-button" aria-hidden="true"></i><span class="ripple-2"></span></a>
-                <span class="play-now">Play Video</span>
+                <span class="play-now">Video abspielen</span>
             </div>
         </section>
 
@@ -143,20 +143,21 @@
             <div class="container">
 
                 <div class="section-title text-center">
-                    <h2>Dienstleistungen, die wir bei Lungs im Zentrum anbieten</h2>
-                    <p class="text">Unsere Lungenklinik spielt eine landesweite Rolle in der Lungenmedizin und bietet eine umfassende Versorgung
-                        Leistungsangebot für Patienten mit Lungenerkrankungen.</p>
+                    <h2>Unser Angebot</h2>
+                    <p class="text">Lungenfunktionsmessungen, Gasaustausch, Blutgasanalysen, Sofort-Labor inkl. Eosinophilenzahl, Spiroergometrie, Schlafapnoeabklärung und entsprechende Therapieeinleitung.</p>
+                    <p class="text">Egal ob Sie zu uns wegen Husten oder Atemnot, COPD oder Asthma und Allergien, Rauchen oder Schnarchen kommen: Neben der optimalen medizinischen Diagnostik ist uns eine umfassende und fürsorgliche Behandlung sehr wichtig.</p>
+                    <p class="text">Wir hoffen, Ihnen einen nützlichen Überblick unserer Lungenpraxis gegeben zu haben. Bei Fragen nehmen Sie bitte mit uns Kontakt auf. Wir sind gerne für Sie da.</p>
                 </div>
-                <div class="row">
 
+                <div class="row">
                     <div class="services-block col-lg-6 col-md-12 col-sm-12">
                         <div class="inner-box">
                             <div class="content">
                                 <div class="icon-box">
                                     <span class="icon"><img src="/images/icon-1.png" alt=""></span>
                                 </div>
-                                <h3><a href="#">Lungenfunktionsmessungen</a></h3>
-                                <p>Unser außergewöhnliches und erfahrenes Personal widmet sich der Verbesserung der pulmonologischen Gesundheit unserer Patienten und der Verbesserung des Lächelns.</p>
+                                <h3><a href="#">Lungenfunktion</a></h3>
+                                <p>Spirometrie, Bodyplethysmographie (grosse Lungenfunktion), Bronchospasmolysetest, Bronchoprovokation mit Methacholin, 6-Minuten-Gehtest, CO-Diffusionsmessung, Atemantriebsmessungen P01/Pmax, Arterielle Blutgasanalyse, Ruhe-EKG, Ergometrie und Ergospirometrie, Ergooxtensiometrie, EIA-Test (anstrengungsinduziertes Asthma)</p>
                             </div>
                         </div>
                     </div>
@@ -167,8 +168,8 @@
                                 <div class="icon-box">
                                     <span class="icon"><img src="/images/icon-2.png" alt=""></span>
                                 </div>
-                                <h3><a href="#">Gasaustausch</a></h3>
-                                <p>Unser außergewöhnliches und erfahrenes Personal widmet sich der Verbesserung der pulmonologischen Gesundheit unserer Patienten und der Verbesserung des Lächelns.</p>
+                                <h3><a href="#">Allergologie</a></h3>
+                                <p>Haut-Prick-Test, Bluttests, FeNO</p>
                             </div>
                         </div>
                     </div>
@@ -179,8 +180,8 @@
                                 <div class="icon-box">
                                     <span class="icon"><img src="/images/icon-3.png" alt=""></span>
                                 </div>
-                                <h3><a href="#">Blutgasanalysen</a></h3>
-                                <p>Unser außergewöhnliches und erfahrenes Personal widmet sich der Verbesserung der pulmonologischen Gesundheit unserer Patienten und der Verbesserung des Lächelns.</p>
+                                <h3><a href="#">Ultraschall</a></h3>
+                                <p>Pleurasonographie, Pleurapunktion (diagnostisch / therapeutisch), Pleurx-Katheter Einlage (ambulant sowie stationär)</p>
                             </div>
                         </div>
                     </div>
@@ -191,8 +192,8 @@
                                 <div class="icon-box">
                                     <span class="icon"><img src="/images/icon-4.png" alt=""></span>
                                 </div>
-                                <h3><a href="#">Sofort-Labor</a></h3>
-                                <p>Unser außergewöhnliches und erfahrenes Personal widmet sich der Verbesserung der pulmonologischen Gesundheit unserer Patienten und der Verbesserung des Lächelns.</p>
+                                <h3><a href="#">Endoskopie</a></h3>
+                                <p>Bronchoskopie mit, TBB, BAL, FNP, Schleimhautbiopsie, bronchiale Biopsie, Endobronchialen Ultraschall mit TBNA, Internistische Thorakoskopie mit, Pleurodese, Endoskopische Eingriffe führen wir als Konsiliar/Belegärzte am Spital Bülach durch.</p>
                             </div>
                         </div>
                     </div>
@@ -224,7 +225,7 @@
             </div>
         </section>
 
-        <section class="appointment-section style-three">
+        <!-- <section class="appointment-section style-three">
             <div class="pattern-layer" style="background-image:url(/images/pattern-21.png)"></div>
             <div class="pattern-layer-two" style="background-image:url(/images/pattern-20.png)"></div>
             <div class="container">
@@ -463,7 +464,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
 
         <section class="testimonial-section style-two alternate">
             <div class="pattern-layer" style="background-image:url(/images/pattern-14.png)"></div>

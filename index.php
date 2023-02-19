@@ -73,7 +73,7 @@
             </div>
         </section>
 
-        <section class="services-form-section">
+        <!-- <section class="services-form-section">
             <div class="image-layer" style="background-image:url(/images/1.png)"></div>
             <div class="container ">
                 <div class="services-form">
@@ -110,9 +110,9 @@
                     </form>
                 </div>
             </div>
-        </section>
+        </section> -->
 
-        <section class="quote-section">
+        <!-- <section class="quote-section">
             <div class="container">
                 <div class="quote-carousel owl-carousel owl-theme">
 
@@ -201,7 +201,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
 
         <section class="booking-section">
             <div class="container">
@@ -329,102 +329,15 @@
 
                 <div class="section-title text-center">
                     <h2>Lernen Sie unseren Spezialisten kennen</h2>
-                    <p class="text">Unser Team aus hochqualifizierten und erfahrenen Pneumologen, Thoraxchirurgen,
+                    <!-- <p class="text">Unser Team aus hochqualifizierten und erfahrenen Pneumologen, Thoraxchirurgen,
                         Radiologen und andere Spezialisten widmen sich der Bereitstellung der besten Versorgung für Patienten mit
-                        Lungenkrebs.</p>
+                        Lungenkrebs.</p> -->
                 </div>
 
                 <div class="team-carousel owl-carousel owl-theme">
                     <div class="team-block">
                         <div class="inner-box">
                             <div class="image">
-                                <img src="/images/team-1.jpg" alt="">
-                                <div class="overlay-box">
-                                    <div class="overlay-inner">
-                                        <ul class="team-social-box">
-                                            <li class="youtube"><a href="#" class="icon icon-youtube"></a><span
-                                                    class="social-name">youtube</span></li>
-                                            <li class="linkedin"><a href="#" class="icon icon-linkedin"></a><span
-                                                    class="social-name">linkedin</span></li>
-                                            <li class="facebook"><a href="#" class="icon icon-facebook"></a><span
-                                                    class="social-name">facebook</span></li>
-                                            <li class="twitter"><a href="#" class="icon icon-twitter"></a><span
-                                                    class="social-name">twitter</span></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="lower-content">
-                                <div class="icon-box">
-                                    <span class="icon icon-heart1"></span>
-                                </div>
-                                <h3><a href="#">Andrew Sebastian</a></h3>
-                                <p class="designation">Pulmonologist</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="team-block">
-                        <div class="inner-box">
-                            <div class="image">
-                                <img src="/images/team-2.jpg" alt="">
-                                <div class="overlay-box">
-                                    <div class="overlay-inner">
-                                        <ul class="team-social-box">
-                                            <li class="youtube"><a href="#" class="icon icon-youtube"></a><span
-                                                    class="social-name">youtube</span></li>
-                                            <li class="linkedin"><a href="#" class="icon icon-linkedin"></a><span
-                                                    class="social-name">linkedin</span></li>
-                                            <li class="facebook"><a href="#" class="icon icon-facebook"></a><span
-                                                    class="social-name">facebook</span></li>
-                                            <li class="twitter"><a href="#" class="icon icon-twitter"></a><span
-                                                    class="social-name">twitter</span></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="lower-content">
-                                <div class="icon-box">
-                                    <span class="icon icon-heart1"></span>
-                                </div>
-                                <h3><a href="#">Thomas Henry</a></h3>
-                                <p class="designation">Pulmonologist</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="team-block">
-                        <div class="inner-box">
-                            <div class="image">
-                                <img src="/images/team-3.jpg" alt="">
-                                <div class="overlay-box">
-                                    <div class="overlay-inner">
-                                        <ul class="team-social-box">
-                                            <li class="youtube"><a href="#" class="icon icon-youtube"></a><span
-                                                    class="social-name">youtube</span></li>
-                                            <li class="linkedin"><a href="#" class="icon icon-linkedin"></a><span
-                                                    class="social-name">linkedin</span></li>
-                                            <li class="facebook"><a href="#" class="icon icon-facebook"></a><span
-                                                    class="social-name">facebook</span></li>
-                                            <li class="twitter"><a href="#" class="icon icon-twitter"></a><span
-                                                    class="social-name">twitter</span></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="lower-content">
-                                <div class="icon-box">
-                                    <span class="icon icon-heart1"></span>
-                                </div>
-                                <h3><a href="#">James Alexander</a></h3>
-                                <p class="designation">Pulmonologist</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="team-block">
-                        <div class="inner-box">
-                            <div class="image">
                                 <img src="/images/team-4.jpg" alt="">
                                 <div class="overlay-box">
                                     <div class="overlay-inner">
@@ -445,8 +358,8 @@
                                 <div class="icon-box">
                                     <span class="icon icon-heart1"></span>
                                 </div>
-                                <h3><a href="#">Harrison Samuel</a></h3>
-                                <p class="designation">Pulmonologist</p>
+                                <h3><a href="#">Bassam Atmeh</a></h3>
+                                <p class="designation">Facharzt für Pneumologie und Innere Medizin , Mitglied FMH, Facharzt Pneumologie FMH, Facharzt Allgemeine Innere Medizin FMH</p>
                             </div>
                         </div>
                     </div>
@@ -474,8 +387,8 @@
                                 <div class="icon-box">
                                     <span class="icon icon-heart1"></span>
                                 </div>
-                                <h3><a href="#">Andrew Sebastian</a></h3>
-                                <p class="designation">Pulmonologist</p>
+                                <h3><a href="#">Dr. med. Bruno Senn</a></h3>
+                                <p class="designation">Facharzt für Pneumologie und Innere Medizin, Mitglied FMH</p>
                             </div>
                         </div>
                     </div>
@@ -503,8 +416,8 @@
                                 <div class="icon-box">
                                     <span class="icon icon-heart1"></span>
                                 </div>
-                                <h3><a href="#">Thomas Henry</a></h3>
-                                <p class="designation">Pulmonologist</p>
+                                <h3><a href="#">Cinzia Ciccone</a></h3>
+                                <p class="designation">Medizinische Praxisassistentin</p>
                             </div>
                         </div>
                     </div>
@@ -532,153 +445,8 @@
                                 <div class="icon-box">
                                     <span class="icon icon-heart1"></span>
                                 </div>
-                                <h3><a href="#">James Alexander</a></h3>
-                                <p class="designation">Pulmonologist</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="team-block">
-                        <div class="inner-box">
-                            <div class="image">
-                                <img src="/images/team-4.jpg" alt="">
-                                <div class="overlay-box">
-                                    <div class="overlay-inner">
-                                        <ul class="team-social-box">
-                                            <li class="youtube"><a href="#" class="icon icon-youtube"></a><span
-                                                    class="social-name">youtube</span></li>
-                                            <li class="linkedin"><a href="#" class="icon icon-linkedin"></a><span
-                                                    class="social-name">linkedin</span></li>
-                                            <li class="facebook"><a href="#" class="icon icon-facebook"></a><span
-                                                    class="social-name">facebook</span></li>
-                                            <li class="twitter"><a href="#" class="icon icon-twitter"></a><span
-                                                    class="social-name">twitter</span></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="lower-content">
-                                <div class="icon-box">
-                                    <span class="icon icon-heart1"></span>
-                                </div>
-                                <h3><a href="#">Harrison Samuel</a></h3>
-                                <p class="designation">Pulmonologist</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="team-block">
-                        <div class="inner-box">
-                            <div class="image">
-                                <img src="/images/team-1.jpg" alt="">
-                                <div class="overlay-box">
-                                    <div class="overlay-inner">
-                                        <ul class="team-social-box">
-                                            <li class="youtube"><a href="#" class="icon icon-youtube"></a><span
-                                                    class="social-name">youtube</span></li>
-                                            <li class="linkedin"><a href="#" class="icon icon-linkedin"></a><span
-                                                    class="social-name">linkedin</span></li>
-                                            <li class="facebook"><a href="#" class="icon icon-facebook"></a><span
-                                                    class="social-name">facebook</span></li>
-                                            <li class="twitter"><a href="#" class="icon icon-twitter"></a><span
-                                                    class="social-name">twitter</span></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="lower-content">
-                                <div class="icon-box">
-                                    <span class="icon icon-heart1"></span>
-                                </div>
-                                <h3><a href="#">Andrew Sebastian</a></h3>
-                                <p class="designation">Pulmonologist</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="team-block">
-                        <div class="inner-box">
-                            <div class="image">
-                                <img src="/images/team-2.jpg" alt="">
-                                <div class="overlay-box">
-                                    <div class="overlay-inner">
-                                        <ul class="team-social-box">
-                                            <li class="youtube"><a href="#" class="icon icon-youtube"></a><span
-                                                    class="social-name">youtube</span></li>
-                                            <li class="linkedin"><a href="#" class="icon icon-linkedin"></a><span
-                                                    class="social-name">linkedin</span></li>
-                                            <li class="facebook"><a href="#" class="icon icon-facebook"></a><span
-                                                    class="social-name">facebook</span></li>
-                                            <li class="twitter"><a href="#" class="icon icon-twitter"></a><span
-                                                    class="social-name">twitter</span></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="lower-content">
-                                <div class="icon-box">
-                                    <span class="icon icon-heart1"></span>
-                                </div>
-                                <h3><a href="#">Thomas Henry</a></h3>
-                                <p class="designation">Pulmonologist</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="team-block">
-                        <div class="inner-box">
-                            <div class="image">
-                                <img src="/images/team-3.jpg" alt="">
-                                <div class="overlay-box">
-                                    <div class="overlay-inner">
-                                        <ul class="team-social-box">
-                                            <li class="youtube"><a href="#" class="icon icon-youtube"></a><span
-                                                    class="social-name">youtube</span></li>
-                                            <li class="linkedin"><a href="#" class="icon icon-linkedin"></a><span
-                                                    class="social-name">linkedin</span></li>
-                                            <li class="facebook"><a href="#" class="icon icon-facebook"></a><span
-                                                    class="social-name">facebook</span></li>
-                                            <li class="twitter"><a href="#" class="icon icon-twitter"></a><span
-                                                    class="social-name">twitter</span></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="lower-content">
-                                <div class="icon-box">
-                                    <span class="icon icon-heart1"></span>
-                                </div>
-                                <h3><a href="#">James Alexander</a></h3>
-                                <p class="designation">Pulmonologist</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="team-block">
-                        <div class="inner-box">
-                            <div class="image">
-                                <img src="/images/team-4.jpg" alt="">
-                                <div class="overlay-box">
-                                    <div class="overlay-inner">
-                                        <ul class="team-social-box">
-                                            <li class="youtube"><a href="#" class="icon icon-youtube"></a><span
-                                                    class="social-name">youtube</span></li>
-                                            <li class="linkedin"><a href="#" class="icon icon-linkedin"></a><span
-                                                    class="social-name">linkedin</span></li>
-                                            <li class="facebook"><a href="#" class="icon icon-facebook"></a><span
-                                                    class="social-name">facebook</span></li>
-                                            <li class="twitter"><a href="#" class="icon icon-twitter"></a><span
-                                                    class="social-name">twitter</span></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="lower-content">
-                                <div class="icon-box">
-                                    <span class="icon icon-heart1"></span>
-                                </div>
-                                <h3><a href="#">Harrison Samuel</a></h3>
-                                <p class="designation">Pulmonologist</p>
+                                <h3><a href="#">Ilenia Iuorno</a></h3>
+                                <p class="designation">Medizinische Praxisassistentin</p>
                             </div>
                         </div>
                     </div>
