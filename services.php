@@ -131,7 +131,7 @@
             </div>
         </section> -->
 
-        <section class="services-section-two style-two">
+        <!-- <section class="services-section-two style-two">
             <div class="container">
 
                 <div class="section-title text-center">
@@ -215,7 +215,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
 
         <section class="video-section style-three" style="background-image:url(/images/22.jpg)">
             <div class="container">
