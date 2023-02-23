@@ -11,11 +11,18 @@
                         <ul class="list-style-two">
                             <!-- <li><a href="contact.html#map-location"><span class="icon  flaticon-map-pin-marked"></span>29 Union Square W <br> New
                                     York, NY 10003, USA</a></li> -->
-                            <li><a href="tel:+490800336655"><span class="icon flaticon-phone"></span>0800336655</a></li>
+                            <li><a href="tel:+4-144-860-9999"><span class="icon flaticon-phone"></span>+4-144-860-9999</a></li>
                             <li>
                                 <a href="mailto:enquires@lungeimzentrum.com">
                                     <span class="icon flaticon-mail"></span>
                                     <span>enquires@lungeimzentrum.com</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="javascript:void(0)">
+                                    <span class="icon flaticon-map-pin-marked"></span>
+                                    <span>Bahnhofstrasse 3, CH-8180 Bülach</span><br>
+                                    <span>Im Umkreis von ca 200 m befinden sich ausreichend öffentliche Parkplätze</span>
                                 </a>
                             </li>
                         </ul>

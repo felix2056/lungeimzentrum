@@ -1186,9 +1186,9 @@
                     <div class="right-column" style="background-image:url(/images/6.jpg)">
                         <div class="inner-column">
 
-                            <a href="tel:+490800336655" class="phone">
+                            <a href="tel:+4-144-860-9999" class="phone">
                                 <span class="icon-box flaticon-24-hours"></span>
-                                <span class="title">Medizinische Notfallversorgung</span><strong>0800336655</strong>
+                                <span class="title">Medizinische Notfallversorgung</span><strong>+4 (144) 860-9999</strong>
                             </a>
                         </div>
                     </div>

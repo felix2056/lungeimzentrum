@@ -358,7 +358,7 @@
                                 <div class="icon-box">
                                     <span class="icon icon-heart1"></span>
                                 </div>
-                                <h3><a href="#">Bassam Atmeh</a></h3>
+                                <h3><a href="/assets/Kuz-CV_Bassam_Atmeh_-_Leitender_Arzt_Pneumologie.pdf" target="_blank">Bassam Atmeh</a></h3>
                                 <p class="designation">Facharzt für Pneumologie und Innere Medizin , Mitglied FMH, Facharzt Pneumologie FMH, Facharzt Allgemeine Innere Medizin FMH</p>
                             </div>
                         </div>
@@ -457,10 +457,11 @@
         <section class="video-section" style="background-image:url(/images/main-bg.png)">
             <div class="container">
                 <h4>Egal ob Sie zu uns wegen Husten oder Atemnot, COPD oder Asthma und Allergien, Rauchen oder Schnarchen kommen: Neben der optimalen medizinischen Diagnostik ist uns eine umfassende und fürsorgliche Behandlung sehr wichtig.</h4>
-                <a href="https://www.youtube.com/watch?v=Fvae8nxzVz4" class="play-button" data-fancybox="gallery"
-                    data-caption=""><i class="icon flaticon-play-button" aria-hidden="true"></i><span
-                        class="ripple-2"></span></a>
-                <span class="play-now">Play Video</span>
+                <!-- <a href="https://www.youtube.com/watch?v=Fvae8nxzVz4" class="play-button" data-fancybox="gallery" data-caption="">
+                    <i class="icon flaticon-play-button" aria-hidden="true"></i>
+                    <span class="ripple-2"></span>
+                </a>
+                <span class="play-now">Play Video</span> -->
             </div>
         </section>
 
@@ -1339,9 +1340,9 @@
                     <div class="right-column" style="background-image:url(/images/6.jpg)">
                         <div class="inner-column">
 
-                            <a href="tel:+490800336655" class="phone">
+                            <a href="tel:+4-144-860-9999" class="phone">
                                 <span class="icon-box flaticon-24-hours"></span>
-                                <span class="title">Medizinische Notfallversorgung</span><strong>0800336655</strong>
+                                <span class="title">Medizinische Notfallversorgung</span><strong>+4 (144) 860-9999</strong>
                             </a>
                         </div>
                     </div>

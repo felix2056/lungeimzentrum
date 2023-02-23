@@ -26,15 +26,15 @@
                         <ul class="breadcrumbs">
                             <li class="left-curves"></li>
                             <li class="right-curves"></li>
-                            <li><a href="/">Home -</a></li>
-                            <li>Service</li>
+                            <li><a href="/">Heim -</a></li>
+                            <li>Services</li>
                         </ul>
                     </div>
                 </div>
             </div>
         </section>
 
-        <section class="services-page-section">
+        <!-- <section class="services-page-section">
             <div class="container">
                 <div class="row">
 
@@ -129,15 +129,7 @@
                     </div>
                 </div>
             </div>
-        </section>
-
-        <section class="video-section style-three" style="background-image:url(/images/22.jpg)">
-            <div class="container">
-                <h2>Wir freuen uns, Ihnen die Möglichkeit zu bieten, das Gesunde zu haben</h2>
-                <a href="https://www.youtube.com/watch?v=Fvae8nxzVz4" class="play-button" data-fancybox="gallery" data-caption=""><i class="icon flaticon-play-button" aria-hidden="true"></i><span class="ripple-2"></span></a>
-                <span class="play-now">Video abspielen</span>
-            </div>
-        </section>
+        </section> -->
 
         <section class="services-section-two style-two">
             <div class="container">
@@ -222,6 +214,14 @@
                         </div>
                     </div>
                 </div>
+            </div>
+        </section>
+
+        <section class="video-section style-three" style="background-image:url(/images/22.jpg)">
+            <div class="container">
+                <h2>Wir freuen uns, Ihnen die Möglichkeit zu bieten, das Gesunde zu haben</h2>
+                <!-- <a href="https://www.youtube.com/watch?v=Fvae8nxzVz4" class="play-button" data-fancybox="gallery" data-caption=""><i class="icon flaticon-play-button" aria-hidden="true"></i><span class="ripple-2"></span></a>
+                <span class="play-now">Video abspielen</span> -->
             </div>
         </section>
 
@@ -466,7 +466,7 @@
             </div>
         </section> -->
 
-        <section class="testimonial-section style-two alternate">
+        <!-- <section class="testimonial-section style-two alternate">
             <div class="pattern-layer" style="background-image:url(/images/pattern-14.png)"></div>
             <div class="pattern-layer-two" style="background-image:url(/images/pattern-15.png)"></div>
 
@@ -519,9 +519,9 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
 
-        <section class="sponsors-section style-two">
+        <!-- <section class="sponsors-section style-two">
             <div class="container">
                 <div class="sponsors-outer">
 
@@ -553,7 +553,7 @@
                     </ul>
                 </div>
             </div>
-        </section>
+        </section> -->
 
         <section class="fullwidth-section-two">
             <div class="outer-container">
@@ -581,9 +581,9 @@
                     <div class="right-column" style="background-image:url(/images/6.jpg)">
                         <div class="inner-column">
 
-                            <a href="tel:+490800336655" class="phone">
+                            <a href="tel:+4-144-860-9999" class="phone">
                                 <span class="icon-box flaticon-24-hours"></span>
-                                <span class="title">Medizinische Notfallversorgung</span><strong>0800336655</strong>
+                                <span class="title">Medizinische Notfallversorgung</span><strong>+4 (144) 860-9999</strong>
                             </a>
                         </div>
                     </div>

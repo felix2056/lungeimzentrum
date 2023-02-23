@@ -45,8 +45,8 @@
                         <div class="inner-column">
 
                             <div class="section-title">
-                                <h2>Get in Touch</h2>
-                                <p class="text">Behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+                                <h2>In Kontakt kommen</h2>
+                                <p class="text">Hinter den Wortbergen, weit entfernt von den Ländern Vokalia und Consonantia, leben die Blindtexte. Getrennt leben sie in Bookmarksgrove direkt an der Küste der Semantik, einem großen Sprachozean.</p>
                             </div>
                             <div class="row">
 
@@ -57,7 +57,7 @@
                                                 <span class="icon flaticon-map-pin-marked"></span>
                                             </div>
                                             <h4>Address</h4>
-                                            <p class="text">29 Union Square West <br> New York, NY 10003, USA</p>
+                                            <p class="text">Bahnhofstrasse 3, CH-8180 Bülach <br> Parkplätze Im Umkreis von ca 200 m befinden sich ausreichend öffentliche Parkplätze</p>
                                         </div>
                                     </div>
                                 </div>
@@ -68,8 +68,8 @@
                                             <div class="icon-box">
                                                 <span class="icon flaticon-phone-call"></span>
                                             </div>
-                                            <h4>Address</h4>
-                                            <p class="text">+1 (857) 325-4879 <br> +1 (685) 218-7845</p>
+                                            <h4>Phone</h4>
+                                            <p class="text">+4 (144) 860-9999</p>
                                         </div>
                                     </div>
                                 </div>
@@ -81,7 +81,7 @@
                                                 <span class="icon flaticon-clock"></span>
                                             </div>
                                             <h4>Opening Hours</h4>
-                                            <p class="text">Moday to Friday: 8am to 7pm Saturday: 10am to 5pm Sunday: 10am to 2pm</p>
+                                            <p class="text">08-12 bis 13-17m</p>
                                         </div>
                                     </div>
                                 </div>
@@ -212,9 +212,9 @@
                     <div class="right-column" style="background-image:url(/images/6.jpg)">
                         <div class="inner-column">
 
-                            <a href="tel:+490800336655" class="phone">
+                            <a href="tel:+4-144-860-9999" class="phone">
                                 <span class="icon-box flaticon-24-hours"></span>
-                                <span class="title">Medizinische Notfallversorgung</span><strong>0800336655</strong>
+                                <span class="title">Medizinische Notfallversorgung</span><strong>+4 (144) 860-9999</strong>
                             </a>
                         </div>
                     </div>
