@@ -845,7 +845,7 @@
                                             <div class="icon-box">
                                                 <span class="icon icon-heart1"></span>
                                             </div>
-                                            <h3><a href="doctor-detail.html">Online-Medizin</a></h3>
+                                            <h3><a href="javascript:void(0)">Online-Medizin</a></h3>
                                             <a class="plus" href="images/1_1.jpg" data-fancybox="gallery-1"
                                                 data-caption=""><span class="flaticon-plus-symbol"></span></a>
                                         </div>
@@ -866,7 +866,7 @@
                                             <div class="icon-box">
                                                 <span class="icon icon-heart1"></span>
                                             </div>
-                                            <h3><a href="doctor-detail.html">Online-Medizin</a></h3>
+                                            <h3><a href="javascript:void(0)">Online-Medizin</a></h3>
                                             <a class="plus" href="images/2.jpg" data-fancybox="gallery-1"
                                                 data-caption=""><span class="flaticon-plus-symbol"></span></a>
                                         </div>
@@ -887,7 +887,7 @@
                                             <div class="icon-box">
                                                 <span class="icon icon-heart1"></span>
                                             </div>
-                                            <h3><a href="doctor-detail.html">Online-Medizin</a></h3>
+                                            <h3><a href="javascript:void(0)">Online-Medizin</a></h3>
                                             <a class="plus" href="images/3_1.jpg" data-fancybox="gallery-1"
                                                 data-caption=""><span class="flaticon-plus-symbol"></span></a>
                                         </div>
@@ -908,7 +908,7 @@
                                             <div class="icon-box">
                                                 <span class="icon icon-heart1"></span>
                                             </div>
-                                            <h3><a href="doctor-detail.html">Online-Medizin</a></h3>
+                                            <h3><a href="javascript:void(0)">Online-Medizin</a></h3>
                                             <a class="plus" href="images/4_1.jpg" data-fancybox="gallery-1"
                                                 data-caption=""><span class="flaticon-plus-symbol"></span></a>
                                         </div>
@@ -929,7 +929,7 @@
                                             <div class="icon-box">
                                                 <span class="icon icon-heart1"></span>
                                             </div>
-                                            <h3><a href="doctor-detail.html">Online-Medizin</a></h3>
+                                            <h3><a href="javascript:void(0)">Online-Medizin</a></h3>
                                             <a class="plus" href="images/5_1.jpg" data-fancybox="gallery-1"
                                                 data-caption=""><span class="flaticon-plus-symbol"></span></a>
                                         </div>
@@ -950,7 +950,7 @@
                                             <div class="icon-box">
                                                 <span class="icon icon-heart1"></span>
                                             </div>
-                                            <h3><a href="doctor-detail.html">Online-Medizin</a></h3>
+                                            <h3><a href="javascript:void(0)">Online-Medizin</a></h3>
                                             <a class="plus" href="images/6_1.jpg" data-fancybox="gallery-1"
                                                 data-caption=""><span class="flaticon-plus-symbol"></span></a>
                                         </div>
@@ -1342,7 +1342,7 @@
 
                             <a href="tel:+4-144-860-9999" class="phone">
                                 <span class="icon-box flaticon-24-hours"></span>
-                                <span class="title">Medizinische Notfallversorgung</span><strong>+4 (144) 860-9999</strong>
+                                <span class="title">NOTRUFNUMMER</span><strong>0800336655</strong>
                             </a>
                         </div>
                     </div>

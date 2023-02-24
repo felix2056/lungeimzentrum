@@ -583,7 +583,7 @@
 
                             <a href="tel:+4-144-860-9999" class="phone">
                                 <span class="icon-box flaticon-24-hours"></span>
-                                <span class="title">Medizinische Notfallversorgung</span><strong>+4 (144) 860-9999</strong>
+                                <span class="title">NOTRUFNUMMER</span><strong>0800336655</strong>
                             </a>
                         </div>
                     </div>
