@@ -48,9 +48,10 @@
                                 <h2>In Kontakt kommen</h2>
                                 <p class="text">Hinter den Wortbergen, weit entfernt von den Ländern Vokalia und Consonantia, leben die Blindtexte. Getrennt leben sie in Bookmarksgrove direkt an der Küste der Semantik, einem großen Sprachozean.</p>
                             </div>
+                            
                             <div class="row">
-
-                                <div class="column col-lg-6 col-md-6 col-sm-12">
+                                
+                            <div class="column col-lg-6 col-md-6 col-sm-12">
                                     <div class="contact-address">
                                         <div class="inner">
                                             <div class="icon-box">
@@ -61,6 +62,7 @@
                                         </div>
                                     </div>
                                 </div>
+                                
 
                                 <div class="column col-lg-6 col-md-6 col-sm-12">
                                     <div class="contact-address">
@@ -68,7 +70,7 @@
                                             <div class="icon-box">
                                                 <span class="icon flaticon-phone-call"></span>
                                             </div>
-                                            <h4>Phone</h4>
+                                            <h4>Telefone</h4>
                                             <p class="text">+4 (144) 860-9999</p>
                                         </div>
                                     </div>
@@ -97,6 +99,8 @@
                                         </div>
                                     </div>
                                 </div>
+
+                                
                             </div>
                         </div>
                     </div>

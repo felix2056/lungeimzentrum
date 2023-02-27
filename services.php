@@ -34,7 +34,7 @@
             </div>
         </section>
 
-        <!-- <section class="services-page-section">
+        <section class="services-page-section">
             <div class="container">
                 <div class="row">
 
@@ -49,21 +49,6 @@
                                 </div>
                                 <h3><a href="services-detail.html">Lungenfunktion</a></h3>
                                 <p class="text">Spirometrie, Bodyplethysmographie (grosse Lungenfunktion), Bronchospasmolysetest, Bronchoprovokation mit Methacholin, 6-Minuten-Gehtest, CO-Diffusionsmessung, Atemantriebsmessungen P01/Pmax, Arterielle Blutgasanalyse, Ruhe-EKG, Ergometrie und Ergospirometrie, Ergooxtensiometrie, EIA-Test (anstrengungsinduziertes Asthma)</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="services-block-three col-lg-4 col-md-6 col-sm-12">
-                        <div class="inner-box">
-                            <div class="image">
-                                <a href="services-detail.html"><img src="/images/service-5.jpg" alt=""></a>
-                            </div>
-                            <div class="lower-content">
-                                <div class="icon-box">
-                                    <span class="icon icon-brifecase-hospital2"></span>
-                                </div>
-                                <h3><a href="services-detail.html">Allergologie</a></h3>
-                                <p class="text">Haut-Prick-Test, Bluttests, FeNO</p>
                             </div>
                         </div>
                     </div>
@@ -127,9 +112,24 @@
                             </div>
                         </div>
                     </div>
+
+                    <div class="services-block-three col-lg-4 col-md-6 col-sm-12">
+                        <div class="inner-box">
+                            <div class="image">
+                                <a href="services-detail.html"><img src="/images/service-5.jpg" alt=""></a>
+                            </div>
+                            <div class="lower-content">
+                                <div class="icon-box">
+                                    <span class="icon icon-brifecase-hospital2"></span>
+                                </div>
+                                <h3><a href="services-detail.html">Allergologie</a></h3>
+                                <p class="text">Haut-Prick-Test, Bluttests, FeNO</p>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
-        </section> -->
+        </section>
 
         <!-- <section class="services-section-two style-two">
             <div class="container">
