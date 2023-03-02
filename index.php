@@ -17,14 +17,15 @@
                                 <h2 class="wow fadeInUp" data-wow-delay="500ms">Fachärzte für Pneumologie und allgemeine Innere Medizin</h2>
                                 <p class="text wow fadeInUp" data-wow-delay="750ms">Unsere Praxis für Pneumologie und Schlafmedizin befindet sich in barrierefreien Räumen im Zentrum von Bülach, wenige Gehminuten vom Bahnhof entfernt.</p>
                                 <div class="link-box wow fadeInUp" data-wow-delay="1000ms">
-                                    <a href="department.html" class="theme-btn btn-style-two"><i>Book Now</i> <span
-                                            class="arrow icon icon-arrow_right"></span></a>
+                                    <!-- <a href="department.html" class="theme-btn btn-style-two"><i>Book Now</i> <span
+                                            class="arrow icon icon-arrow_right"></span>
+                                        </a> -->
                                 </div>
                             </div>
 
-                            <div class="image">
+                            <!-- <div class="image">
                                 <img src="/images/content-image.png" alt="">
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -38,14 +39,15 @@
                                 <h2 class="wow fadeInUp" data-wow-delay="500ms">Fachärzte für Pneumologie und allgemeine Innere Medizin</h2>
                                 <p class="text wow fadeInUp" data-wow-delay="750ms">Wir sind sowohl mit öffentlichen Verkehrsmitteln als auch mit dem Auto gut zu erreichen. Unsere Praxis ist mit barrierefreien Räumen ausgestattet. Der Haupteingang befindet sich auf der rechten Seite des Gebäudes, es gibt linksseitig einen stufenfreien Direktzugang.</p>
                                 <div class="link-box wow fadeInUp" data-wow-delay="1000ms">
-                                    <a href="department.html" class="theme-btn btn-style-two"><i>Book Now</i> <span
-                                            class="arrow icon icon-arrow_right"></span></a>
+                                    <!-- <a href="department.html" class="theme-btn btn-style-two"><i>Book Now</i> <span
+                                            class="arrow icon icon-arrow_right"></span>
+                                        </a> -->
                                 </div>
                             </div>
 
-                            <div class="image">
+                            <!-- <div class="image">
                                 <img src="/images/content-image-2.png" alt="">
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -59,14 +61,14 @@
                                 <h2 class="wow fadeInUp" data-wow-delay="500ms">Fachärzte für Pneumologie und allgemeine Innere Medizin</h2>
                                 <p class="text wow fadeInUp" data-wow-delay="750ms">Als erfahrene Lungenfachärzte bieten wir in unserer neu eröffneten Praxis das gesamte Spektrum der Pneumologie an inklusive Leistungsdiagnostik. Ebenfalls machen wir die Diagnostik und Therapie der schlafgebundenen Atemstörungen.</p>
                                 <div class="link-box wow fadeInUp" data-wow-delay="1000ms">
-                                    <a href="department.html" class="theme-btn btn-style-two"><i>Book Now</i> <span
-                                            class="arrow icon icon-arrow_right"></span></a>
+                                    <!-- <a href="department.html" class="theme-btn btn-style-two"><i>Book Now</i> <span
+                                            class="arrow icon icon-arrow_right"></span></a> -->
                                 </div>
                             </div>
 
-                            <div class="image">
+                            <!-- <div class="image">
                                 <img src="/images/content-image-3.png" alt="">
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -207,7 +209,7 @@
             <div class="container">
                 <div class="row">
 
-                    <div class="video-column col-lg-6 col-md-12 col-sm-12">
+                    <!-- <div class="video-column col-lg-6 col-md-12 col-sm-12">
                         <div class="inner-column">
                             <div class="transparent-layer"></div>
                             <div class="green-layer"></div>
@@ -230,6 +232,16 @@
                             <a href="department.html" class="theme-btn btn-style-two"><i>Book Now</i> 
                                 <span class="arrow icon icon-arrow_right"></span>
                             </a>
+                        </div>
+                    </div> -->
+
+                    <div class="content-column col-md-12 offset-md-0 col-md-12 col-sm-12">
+                        <div class="inner-column">
+                            <!-- <h2>Wir sind erfahrene Lungenspezialisten</h2> -->
+                            <h2>Als erfahrene Lungenfachärzte bieten wir in unserer neu eröffneten Praxis das gesamte Spektrum der Pneumologie an inklusive Leistungsdiagnostik. <br /> Ebenfalls machen wir die Diagnostik und Therapie der schlafgebundenen Atemstörungen.</h2>
+                            <!-- <a href="department.html" class="theme-btn btn-style-two"><i>Book Now</i> 
+                                <span class="arrow icon icon-arrow_right"></span>
+                            </a> -->
                         </div>
                     </div>
                 </div>
@@ -254,7 +266,7 @@
                                     <span class="icon"><img src="/images/icon-1.png" alt=""></span>
                                 </div>
                                 <h3><a href="#">Lungenfunktion</a></h3>
-                                <p>Spirometrie, Bodyplethysmographie (grosse Lungenfunktion), Bronchospasmolysetest, Bronchoprovokation mit Methacholin, 6-Minuten-Gehtest, CO-Diffusionsmessung, Atemantriebsmessungen P01/Pmax, Arterielle Blutgasanalyse, Ruhe-EKG, Ergometrie und Ergospirometrie, Ergooxtensiometrie, EIA-Test (anstrengungsinduziertes Asthma)</p>
+                                <p>Spirometrie, Bodyplethysmographie (grosse Lungenfunktion), Bronchospasmolysetest, Bronchoprovokation mit Methacholin, 6-Minuten-Gehtest, CO-Diffusionsmessung</p>
                             </div>
                         </div>
                     </div>
@@ -302,7 +314,8 @@
                                     <span class="icon"><img src="/images/icon-5.png" alt=""></span>
                                 </div>
                                 <h3><a href="#">Spiroergometrie</a></h3>
-                                <p>Unser außergewöhnliches und erfahrenes Personal widmet sich der Verbesserung der pulmonologischen Gesundheit unserer Patienten und der Verbesserung des Lächelns.</p>
+                                <!-- <p>Unser außergewöhnliches und erfahrenes Personal widmet sich der Verbesserung der pulmonologischen Gesundheit unserer Patienten und der Verbesserung des Lächelns.</p> -->
+                                <p>Atemantriebsmessungen P01/Pmax, Arterielle Blutgasanalyse, Ruhe-EKG, Ergometrie und Ergospirometrie, Ergooxtensiometrie, EIA-Test (anstrengungsinduziertes Asthma)</p>
                             </div>
                         </div>
                     </div>
@@ -328,7 +341,7 @@
             <div class="container">
 
                 <div class="section-title text-center">
-                    <h2>Lernen Sie unseren Spezialisten kennen</h2>
+                    <h2>Lernen Sie unser Team kennen</h2>
                     <!-- <p class="text">Unser Team aus hochqualifizierten und erfahrenen Pneumologen, Thoraxchirurgen,
                         Radiologen und andere Spezialisten widmen sich der Bereitstellung der besten Versorgung für Patienten mit
                         Lungenkrebs.</p> -->
@@ -338,7 +351,7 @@
                     <div class="team-block">
                         <div class="inner-box">
                             <div class="image">
-                                <img src="/images/team-4.jpg" alt="">
+                                <img src="/images/doctor-1.jpeg" alt="">
                                 <div class="overlay-box">
                                     <div class="overlay-inner">
                                         <ul class="team-social-box">
@@ -367,7 +380,7 @@
                     <div class="team-block">
                         <div class="inner-box">
                             <div class="image">
-                                <img src="/images/team-1.jpg" alt="">
+                                <img src="https://via.placeholder.com/255x255" alt="">
                                 <div class="overlay-box">
                                     <div class="overlay-inner">
                                         <ul class="team-social-box">
@@ -396,36 +409,7 @@
                     <div class="team-block">
                         <div class="inner-box">
                             <div class="image">
-                                <img src="/images/team-2.jpg" alt="">
-                                <div class="overlay-box">
-                                    <div class="overlay-inner">
-                                        <ul class="team-social-box">
-                                            <li class="youtube"><a href="#" class="icon icon-youtube"></a><span
-                                                    class="social-name">youtube</span></li>
-                                            <li class="linkedin"><a href="#" class="icon icon-linkedin"></a><span
-                                                    class="social-name">linkedin</span></li>
-                                            <li class="facebook"><a href="#" class="icon icon-facebook"></a><span
-                                                    class="social-name">facebook</span></li>
-                                            <li class="twitter"><a href="#" class="icon icon-twitter"></a><span
-                                                    class="social-name">twitter</span></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="lower-content">
-                                <div class="icon-box">
-                                    <span class="icon icon-heart1"></span>
-                                </div>
-                                <h3><a href="#">Cinzia Ciccone</a></h3>
-                                <p class="designation">Medizinische Praxisassistentin</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="team-block">
-                        <div class="inner-box">
-                            <div class="image">
-                                <img src="/images/team-3.jpg" alt="">
+                                <img src="https://via.placeholder.com/255x255" alt="">
                                 <div class="overlay-box">
                                     <div class="overlay-inner">
                                         <ul class="team-social-box">
@@ -446,6 +430,35 @@
                                     <span class="icon icon-heart1"></span>
                                 </div>
                                 <h3><a href="#">Ilenia Iuorno</a></h3>
+                                <p class="designation">Medizinische Praxisassistentin</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="team-block">
+                        <div class="inner-box">
+                            <div class="image">
+                                <img src="https://via.placeholder.com/255x255" alt="">
+                                <div class="overlay-box">
+                                    <div class="overlay-inner">
+                                        <ul class="team-social-box">
+                                            <li class="youtube"><a href="#" class="icon icon-youtube"></a><span
+                                                    class="social-name">youtube</span></li>
+                                            <li class="linkedin"><a href="#" class="icon icon-linkedin"></a><span
+                                                    class="social-name">linkedin</span></li>
+                                            <li class="facebook"><a href="#" class="icon icon-facebook"></a><span
+                                                    class="social-name">facebook</span></li>
+                                            <li class="twitter"><a href="#" class="icon icon-twitter"></a><span
+                                                    class="social-name">twitter</span></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="lower-content">
+                                <div class="icon-box">
+                                    <span class="icon icon-heart1"></span>
+                                </div>
+                                <h3><a href="#">Cinzia Ciccone</a></h3>
                                 <p class="designation">Medizinische Praxisassistentin</p>
                             </div>
                         </div>
@@ -506,7 +519,7 @@
             </div>
         </section> -->
 
-        <section class="container-fluid">
+        <!-- <section class="container-fluid">
             <div class="pattern-layer" style="background-image:url(/images/pattern-2.png)"></div>
             <div class="outer-section">
                 <div class="clearfix">
@@ -561,7 +574,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
 
         <!-- <section class="appointment-section">
             <div class="pattern-layer" style="background-image:url(/images/pattern-1.png)"></div>
@@ -1318,7 +1331,7 @@
             <div class="outer-container">
                 <div class="clearfix">
 
-                    <div class="left-column" style="background-image:url(/images/5.jpg)">
+                    <!-- <div class="left-column" style="background-image:url(/images/5.jpg)">
                         <div class="inner-column">
                             <h2>Abonnieren Sie unsere <br> Newsletter</h2>
 
@@ -1335,14 +1348,14 @@
 
                             <p class="text">***Wir versprechen, kein Spam!</p>
                         </div>
-                    </div>
+                    </div> -->
 
-                    <div class="right-column" style="background-image:url(/images/6.jpg)">
+                    <div class="right-column text-center" style="background-image:url(/images/6.jpg);width:100%">
                         <div class="inner-column">
 
-                            <a href="tel:+4-144-860-9999" class="phone">
-                                <span class="icon-box flaticon-24-hours"></span>
-                                <span class="title">NOTRUFNUMMER</span><strong>0800336655</strong>
+                            <a href="tel:0800336655" class="phone">
+                                <span class="icon-box flaticon-24-hours" style="float:none;"></span>
+                                <span class="title">Aerztefon</span><strong>0800 33 66 55</strong>
                             </a>
                         </div>
                     </div>

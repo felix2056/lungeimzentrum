@@ -1825,20 +1825,28 @@ img {
 .banner-column .title {
     position: relative;
     color: #fff;
-    font-size: 26px;
-    font-weight: 700;
-    font-style: italic;
+    font-size: 41px;
+    font-weight: 400;
+    /* font-style: italic; */
     margin-bottom: 20px;
     padding-top: 90px;
     display: inline-block;
-    text-decoration: underline;
-    font-family: playfair display, serif
+    /* text-decoration: underline; */
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+/* mobile only */
+@media (max-width: 767px) {
+    .banner-column .title {
+        font-size: 35px;
+    }
 }
 
 .banner-column h2 {
     position: relative;
     display: block;
-    font-size: 54px;
+    font-size: 29px;
     line-height: 1.2em;
     color: #fff;
     font-weight: 700;
@@ -4470,7 +4478,7 @@ img {
     top: 0;
     right: 0;
     bottom: 0;
-    background-color: rgba(28, 186, 159, .9)
+    background-color: rgb(12, 150, 197, .9)
 }
 
 .fullwidth-section-two .phone {
@@ -4492,7 +4500,7 @@ img {
     position: relative;
     color: #fff;
     font-weight: 700;
-    font-size: 22px;
+    font-size: 45px;
     line-height: 2.4em;
     display: block;
     -webkit-transition: all 300ms ease;
@@ -5326,8 +5334,8 @@ img {
     position: relative;
     color: #223a66;
     font-weight: 700;
-    line-height: 1.2em;
-    font-size: 46px;
+    line-height: 2.0em;
+    font-size: 27px;
     margin-bottom: 35px
 }
 

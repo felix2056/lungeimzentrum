@@ -11,11 +11,11 @@
                         <ul class="list-style-two mt-4rem">
                             <!-- <li><a href="contact.html#map-location"><span class="icon  flaticon-map-pin-marked"></span>29 Union Square W <br> New
                                     York, NY 10003, USA</a></li> -->
-                            <li><a href="tel:+4-144-860-9999"><span class="icon flaticon-phone"></span>+4-144-860-9999</a></li>
+                            <li><a href="tel:+4-144-860-9999"><span class="icon flaticon-phone"></span>+41 44 860 99 99</a></li>
                             <li>
-                                <a href="mailto:enquires@lungeimzentrum.com">
+                                <a href="mailto:liz@hin.ch">
                                     <span class="icon flaticon-mail"></span>
-                                    <span>enquires@lungeimzentrum.com</span>
+                                    <span>liz@hin.ch</span>
                                 </a>
                             </li>
                             <li>
@@ -24,13 +24,14 @@
                                     <span>Bahnhofstrasse 3, CH-8180 Bülach</span>
                                 </a>
                             </li>
-                            <li>
+                            <!-- <li>
                                 <a href="javascript:void(0)">
-                                    <!-- <span class="icon flaticon-parking"></span> -->
-                                    <svg class="icon" style="width: 15px;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) --><path d="M400 32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zM240 320h-48v48c0 8.8-7.2 16-16 16h-32c-8.8 0-16-7.2-16-16V144c0-8.8 7.2-16 16-16h96c52.9 0 96 43.1 96 96s-43.1 96-96 96zm0-128h-48v64h48c17.6 0 32-14.4 32-32s-14.4-32-32-32z"/></svg>
-                                    <span>Im Umkreis von ca 200 m befinden sich <br /> ausreichend öffentliche Parkplätze</span>
+                                    <svg class="icon" style="width: 15px;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zM240 320h-48v48c0 8.8-7.2 16-16 16h-32c-8.8 0-16-7.2-16-16V144c0-8.8 7.2-16 16-16h96c52.9 0 96 43.1 96 96s-43.1 96-96 96zm0-128h-48v64h48c17.6 0 32-14.4 32-32s-14.4-32-32-32z"/></svg>
+                                    <span>Im Umkreis von ca 200 m befinden sich 
+                                        <br /> ausreichend öffentliche Parkplätze
+                                    </span>
                                 </a>
-                            </li>
+                            </li> -->
                         </ul>
                     </div>
                 </div>
@@ -51,17 +52,15 @@
                     </div>
                 </div> -->
 
-                <div class="footer-column col-lg-6 col-md-6">
+                <div class="footer-column col-lg-6 col-md-6" style="margin-top: 35px;">
                     <div class="footer-widget times-widget">
                         <h2>Wir sind verfügbar</h2>
                         <ul class="time-list">
-                            <li>Monday :<span>08.12 - 13.17</span></li>
-                            <li>Tuesday :<span>08.12 - 13.17</span></li>
-                            <li>Wednesday :<span>08.12 - 13.17</span></li>
-                            <li>Tuesday :<span>08.12 - 13.17</span></li>
-                            <li>Thursday :<span>08.12 - 13.17</span></li>
-                            <li>Friday :<span>08.12 - 13.17</span></li>
-                            <li>Saturday :<span>08.12 - 13.17</span></li>
+                            <li>Montag :<span>8:00-12:00 13:00 – 17:00</span></li>
+                            <li>Dienstag :<span>8:00-12:00 13:00 – 17:00</span></li>
+                            <li>Mittwoch :<span>8:00-12:00 13:00 – 17:00</span></li>
+                            <li>Donnerstag :<span>8:00-12:00 13:00 – 17:00</span></li>
+                            <li>Freitag :<span>8:00-12:00 13:00 – 17:00</span></li>
                         </ul>
                     </div>
                 </div>
@@ -72,11 +71,11 @@
     <div class="footer-bottom">
         <div class="container">
             <div class="clearfix">
-                <div class="pull-left">
+                <div class="text-center">
 
                     <p class="copyright">© 2023, Lunge im Zentrum. Alle Rechte vorbehalten.</p>
                 </div>
-                <div class="pull-right">
+                <!-- <div class="pull-right">
                     <ul class="social-box">
                         <li class="messanger"><a href="#"><span class="icon flaticon-messenger"></span>
                             lungeimzentrum.center</a></li>
@@ -85,7 +84,7 @@
                         <li class="twitter"><a href="#" class="icon icon-twitter"></a></li>
                         <li class="youtube"><a href="#" class="icon icon-youtube"></a></li>
                     </ul>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>

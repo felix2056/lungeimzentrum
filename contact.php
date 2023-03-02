@@ -21,14 +21,14 @@
             <div class="container">
                 <div class="clearfix">
                     <div class="pull-left">
-                        <h2>Contact Us</h2>
+                        <h2>Kontakt Us</h2>
                     </div>
                     <div class="pull-right">
                         <ul class="breadcrumbs">
                             <li class="left-curves"></li>
                             <li class="right-curves"></li>
                             <li><a href="/">Home -</a></li>
-                            <li>Contact</li>
+                            <li>Kontakt</li>
                         </ul>
                     </div>
                 </div>
@@ -41,71 +41,68 @@
             <div class="container">
                 <div class="row">
 
-                    <div class="info-column col-lg-7 col-md-12 col-sm-12">
+                    <div class="info-column col-lg-12 col-md-12 col-sm-12 text-center">
                         <div class="inner-column">
 
                             <div class="section-title">
-                                <h2>In Kontakt kommen</h2>
-                                <p class="text">Hinter den Wortbergen, weit entfernt von den Ländern Vokalia und Consonantia, leben die Blindtexte. Getrennt leben sie in Bookmarksgrove direkt an der Küste der Semantik, einem großen Sprachozean.</p>
+                                <h2>Kontakt</h2>
+                                <!-- <p class="text">Hinter den Wortbergen, weit entfernt von den Ländern Vokalia und Consonantia, leben die Blindtexte. Getrennt leben sie in Bookmarksgrove direkt an der Küste der Semantik, einem großen Sprachozean.</p> -->
                             </div>
                             
                             <div class="row">
                                 
                             <div class="column col-lg-6 col-md-6 col-sm-12">
-                                    <div class="contact-address">
-                                        <div class="inner">
-                                            <div class="icon-box">
-                                                <span class="icon flaticon-map-pin-marked"></span>
-                                            </div>
-                                            <h4>Address</h4>
-                                            <p class="text">Bahnhofstrasse 3, CH-8180 Bülach <br> Parkplätze Im Umkreis von ca 200 m befinden sich ausreichend öffentliche Parkplätze</p>
+                                <div class="contact-address">
+                                    <div class="inner">
+                                        <div class="icon-box">
+                                            <span class="icon flaticon-map-pin-marked"></span>
                                         </div>
+                                        <h4>Address</h4>
+                                        <p class="text">Bahnhofstrasse 3, CH-8180 Bülach <br> Parkplätze Im Umkreis von ca 200 m befinden sich ausreichend öffentliche Parkplätze</p>
                                     </div>
                                 </div>
-                                
+                            </div>
 
-                                <div class="column col-lg-6 col-md-6 col-sm-12">
-                                    <div class="contact-address">
-                                        <div class="inner">
-                                            <div class="icon-box">
-                                                <span class="icon flaticon-phone-call"></span>
-                                            </div>
-                                            <h4>Telefone</h4>
-                                            <p class="text">+4 (144) 860-9999</p>
+                            <div class="column col-lg-6 col-md-6 col-sm-12">
+                                <div class="contact-address">
+                                    <div class="inner">
+                                        <div class="icon-box">
+                                            <span class="icon flaticon-phone-call"></span>
                                         </div>
+                                        <h4>Telefone</h4>
+                                        <p class="text">+41 44 860 99 99</p>
                                     </div>
                                 </div>
+                            </div>
 
-                                <div class="column col-lg-6 col-md-6 col-sm-12">
-                                    <div class="contact-address">
-                                        <div class="inner">
-                                            <div class="icon-box">
-                                                <span class="icon flaticon-clock"></span>
-                                            </div>
-                                            <h4>Opening Hours</h4>
-                                            <p class="text">08-12 bis 13-17m</p>
+                            <div class="column col-lg-6 col-md-6 col-sm-12">
+                                <div class="contact-address">
+                                    <div class="inner">
+                                        <div class="icon-box">
+                                            <span class="icon flaticon-clock"></span>
                                         </div>
+                                        <h4>Opening Hours</h4>
+                                        <p class="text">08:00-12:00 , 13:00 bis 17:00</p>
                                     </div>
                                 </div>
+                            </div>
 
-                                <div class="column col-lg-6 col-md-6 col-sm-12">
-                                    <div class="contact-address">
-                                        <div class="inner">
-                                            <div class="icon-box">
-                                                <span class="icon flaticon-letter"></span>
-                                            </div>
-                                            <h4>Mail</h4>
-                                            <p class="text">enquires@lungeimzentrum.com</p>
+                            <div class="column col-lg-6 col-md-6 col-sm-12">
+                                <div class="contact-address">
+                                    <div class="inner">
+                                        <div class="icon-box">
+                                            <span class="icon flaticon-letter"></span>
                                         </div>
+                                        <h4>Mail</h4>
+                                        <p class="text">liz@hin.ch</p>
                                     </div>
                                 </div>
-
-                                
+                            </div>
                             </div>
                         </div>
                     </div>
 
-                    <div class="form-column col-lg-5 col-md-12 col-sm-12">
+                    <!-- <div class="form-column col-lg-5 col-md-12 col-sm-12">
                         <div class="inner-column">
                             <div class="title-box">
                                 <div class="title">Need emergency?</div>
@@ -136,7 +133,7 @@
                                 </form>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </section>
@@ -145,12 +142,13 @@
         <section class="map-section" id="map-location">
 
             <div class="map-outer">
-                <div class="google-map" id="contact-google-map" data-map-lat="44.231172" data-map-lng="-76.485954" data-icon-path="images/icons/map-marker.png" data-map-title="Alabama, USA" data-map-zoom="12" data-markers="{
+                <!-- <div class="google-map" id="contact-google-map" data-map-lat="44.231172" data-map-lng="-76.485954" data-icon-path="images/icons/map-marker.png" data-map-title="Alabama, USA" data-map-zoom="12" data-markers="{
                 	&quot;marker-1&quot;: [42.231172, -84.485954, &quot;<h4>Branch Office</h4><p>4/99 Alabama, USA</p>&quot;],
                     &quot;marker-2&quot;: [44.231172, -76.485954, &quot;<h4>Branch Office</h4><p>4/99 Alabama, USA</p>&quot;],
                     &quot;marker-3&quot;: [40.880550, -78.393705, &quot;<h4>Branch Office</h4><p>4/99 Pennsylvania, USA</p>&quot;]
                 }">
-                </div>
+                </div> -->
+                <iframe style="width:100%" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2694.4807121718177!2d8.535268431424909!3d47.51950343539691!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479075d363896db5%3A0x6615c1ecf5971bac!2sBahnhofstrasse%203%2C%208180%20B%C3%BClach%2C%20Switzerland!5e0!3m2!1sen!2sng!4v1677787080701!5m2!1sen!2sng" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
         </section>
 

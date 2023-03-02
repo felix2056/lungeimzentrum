@@ -3,13 +3,13 @@
         <div class="container ">
             <div class="top-outer clearfix">
                 <ul class="top-left">
-                    <li><a href="/tel:+1-(212)-305-2500"><span class="icon flaticon-phone-receiver"></span>Phone:
-                            +4 (144) 860-9999</a></li>
-                    <li><span class="icon flaticon-clock-1"></span>Mon-Fri (8am - 6pm)</li>
+                    <li><a href="/tel:+41448609999"><span class="icon flaticon-phone-receiver"></span>Telefon:
+                            +41 44 860 99 99</a></li>
+                    <li><span class="icon flaticon-clock-1"></span>Mo.- Fr. 8:00 – 17:00</li>
                     <li>
-                        <a href="/mailto:enquires@lungeimzentrum.com">
+                        <a href="/mailto:liz@hin.ch">
                             <span class="icon flaticon-letter"></span>
-                            <span>enquires@lungeimzentrum.com</span>
+                            <span>liz@hin.ch</span>
                         </a>
                     </li>
                 </ul>
@@ -57,11 +57,11 @@
                             <li>
                                 <a href="/">Home</a>
                             </li>
-                            <li>
+                            <!-- <li>
                                 <a href="/about.php">About</a>
-                            </li>
+                            </li> -->
                             <!-- <li><a href="/department.php">Department</a></li> -->
-                            <li><a href="/services.php">Services</a></li>
+                            <!-- <li><a href="/services.php">Services</a></li> -->
                             <li><a href="/contact.php">Contact</a></li>
                             <!-- <li class="elementskit-dropdown-has"><a href="/#">Doctor</a>
                                 <ul class="elementskit-dropdown elementskit-submenu-panel">

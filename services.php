@@ -1,3 +1,8 @@
+<?php
+    // show 404
+    return header('HTTP/1.0 404 Not Found');
+?>
+
 <?php include 'inc/header.php'; ?>
 
 <body>
