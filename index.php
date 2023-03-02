@@ -354,7 +354,7 @@
                                 <img src="/images/doctor-1.jpeg" alt="">
                                 <div class="overlay-box">
                                     <div class="overlay-inner">
-                                        <ul class="team-social-box">
+                                        <!-- <ul class="team-social-box">
                                             <li class="youtube"><a href="#" class="icon icon-youtube"></a><span
                                                     class="social-name">youtube</span></li>
                                             <li class="linkedin"><a href="#" class="icon icon-linkedin"></a><span
@@ -363,7 +363,7 @@
                                                     class="social-name">facebook</span></li>
                                             <li class="twitter"><a href="#" class="icon icon-twitter"></a><span
                                                     class="social-name">twitter</span></li>
-                                        </ul>
+                                        </ul> -->
                                     </div>
                                 </div>
                             </div>
@@ -383,7 +383,7 @@
                                 <img src="https://via.placeholder.com/255x255" alt="">
                                 <div class="overlay-box">
                                     <div class="overlay-inner">
-                                        <ul class="team-social-box">
+                                        <!-- <ul class="team-social-box">
                                             <li class="youtube"><a href="#" class="icon icon-youtube"></a><span
                                                     class="social-name">youtube</span></li>
                                             <li class="linkedin"><a href="#" class="icon icon-linkedin"></a><span
@@ -392,7 +392,7 @@
                                                     class="social-name">facebook</span></li>
                                             <li class="twitter"><a href="#" class="icon icon-twitter"></a><span
                                                     class="social-name">twitter</span></li>
-                                        </ul>
+                                        </ul> -->
                                     </div>
                                 </div>
                             </div>
@@ -412,7 +412,7 @@
                                 <img src="https://via.placeholder.com/255x255" alt="">
                                 <div class="overlay-box">
                                     <div class="overlay-inner">
-                                        <ul class="team-social-box">
+                                        <!-- <ul class="team-social-box">
                                             <li class="youtube"><a href="#" class="icon icon-youtube"></a><span
                                                     class="social-name">youtube</span></li>
                                             <li class="linkedin"><a href="#" class="icon icon-linkedin"></a><span
@@ -421,7 +421,7 @@
                                                     class="social-name">facebook</span></li>
                                             <li class="twitter"><a href="#" class="icon icon-twitter"></a><span
                                                     class="social-name">twitter</span></li>
-                                        </ul>
+                                        </ul> -->
                                     </div>
                                 </div>
                             </div>
@@ -441,7 +441,7 @@
                                 <img src="https://via.placeholder.com/255x255" alt="">
                                 <div class="overlay-box">
                                     <div class="overlay-inner">
-                                        <ul class="team-social-box">
+                                        <!-- <ul class="team-social-box">
                                             <li class="youtube"><a href="#" class="icon icon-youtube"></a><span
                                                     class="social-name">youtube</span></li>
                                             <li class="linkedin"><a href="#" class="icon icon-linkedin"></a><span
@@ -450,7 +450,7 @@
                                                     class="social-name">facebook</span></li>
                                             <li class="twitter"><a href="#" class="icon icon-twitter"></a><span
                                                     class="social-name">twitter</span></li>
-                                        </ul>
+                                        </ul> -->
                                     </div>
                                 </div>
                             </div>
@@ -1117,7 +1117,7 @@
             </div>
         </section> -->
 
-        <section class="news-section">
+        <!-- <section class="news-section">
             <div class="pattern-layer-one" style="background-image:url(/images/pattern-6.png)"></div>
             <div class="pattern-layer-two" style="background-image:url(/images/pattern-7.png)"></div>
             <div class="container">
@@ -1291,7 +1291,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
 
         <!-- <section class="sponsors-section">
             <div class="container">

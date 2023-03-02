@@ -10,7 +10,7 @@
         <section class="page-title">
             <div class="outer-container">
                 <div class="image">
-                    <img src="/images/24.jpg" alt="">
+                    <img src="/images/24.png" alt="">
                 </div>
             </div>
         </section>
@@ -51,53 +51,53 @@
                             
                             <div class="row">
                                 
-                            <div class="column col-lg-6 col-md-6 col-sm-12">
-                                <div class="contact-address">
-                                    <div class="inner">
-                                        <div class="icon-box">
-                                            <span class="icon flaticon-map-pin-marked"></span>
+                                <div class="column col-lg-6 col-md-6 col-sm-12">
+                                    <div class="contact-address">
+                                        <div class="inner">
+                                            <div class="icon-box">
+                                                <span class="icon flaticon-map-pin-marked"></span>
+                                            </div>
+                                            <h4>Address</h4>
+                                            <p class="text">Bahnhofstrasse 3, CH-8180 Bülach <br> Parkplätze Im Umkreis von ca 200 m befinden sich ausreichend öffentliche Parkplätze</p>
                                         </div>
-                                        <h4>Address</h4>
-                                        <p class="text">Bahnhofstrasse 3, CH-8180 Bülach <br> Parkplätze Im Umkreis von ca 200 m befinden sich ausreichend öffentliche Parkplätze</p>
                                     </div>
                                 </div>
-                            </div>
 
-                            <div class="column col-lg-6 col-md-6 col-sm-12">
-                                <div class="contact-address">
-                                    <div class="inner">
-                                        <div class="icon-box">
-                                            <span class="icon flaticon-phone-call"></span>
+                                <div class="column col-lg-6 col-md-6 col-sm-12">
+                                    <div class="contact-address">
+                                        <div class="inner">
+                                            <div class="icon-box">
+                                                <span class="icon flaticon-phone-call"></span>
+                                            </div>
+                                            <h4>Telefone</h4>
+                                            <p class="text">+41 44 860 99 99</p>
                                         </div>
-                                        <h4>Telefone</h4>
-                                        <p class="text">+41 44 860 99 99</p>
                                     </div>
                                 </div>
-                            </div>
 
-                            <div class="column col-lg-6 col-md-6 col-sm-12">
-                                <div class="contact-address">
-                                    <div class="inner">
-                                        <div class="icon-box">
-                                            <span class="icon flaticon-clock"></span>
+                                <div class="column col-lg-6 col-md-6 col-sm-12">
+                                    <div class="contact-address">
+                                        <div class="inner">
+                                            <div class="icon-box">
+                                                <span class="icon flaticon-clock"></span>
+                                            </div>
+                                            <h4>Opening Hours</h4>
+                                            <p class="text">08:00-12:00 , 13:00 bis 17:00</p>
                                         </div>
-                                        <h4>Opening Hours</h4>
-                                        <p class="text">08:00-12:00 , 13:00 bis 17:00</p>
                                     </div>
                                 </div>
-                            </div>
 
-                            <div class="column col-lg-6 col-md-6 col-sm-12">
-                                <div class="contact-address">
-                                    <div class="inner">
-                                        <div class="icon-box">
-                                            <span class="icon flaticon-letter"></span>
+                                <div class="column col-lg-6 col-md-6 col-sm-12">
+                                    <div class="contact-address">
+                                        <div class="inner">
+                                            <div class="icon-box">
+                                                <span class="icon flaticon-letter"></span>
+                                            </div>
+                                            <h4>Mail</h4>
+                                            <p class="text">liz@hin.ch</p>
                                         </div>
-                                        <h4>Mail</h4>
-                                        <p class="text">liz@hin.ch</p>
                                     </div>
                                 </div>
-                            </div>
                             </div>
                         </div>
                     </div>
