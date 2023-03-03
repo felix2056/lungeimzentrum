@@ -10,7 +10,7 @@
         <section class="page-title">
             <div class="outer-container">
                 <div class="image">
-                    <img src="/images/24.png" alt="">
+                    <img src="/images/24.jpg" alt="">
                 </div>
             </div>
         </section>
@@ -192,7 +192,7 @@
             <div class="outer-container">
                 <div class="clearfix">
 
-                    <div class="left-column" style="background-image:url(/images/5.jpg)">
+                    <!-- <div class="left-column" style="background-image:url(/images/5.jpg)">
                         <div class="inner-column">
                             <h2>Abonnieren Sie unsere <br> Newsletter</h2>
 
@@ -209,14 +209,14 @@
 
                             <p class="text">***Wir versprechen, kein Spam!</p>
                         </div>
-                    </div>
+                    </div> -->
 
-                    <div class="right-column" style="background-image:url(/images/6.jpg)">
+                    <div class="right-column text-center" style="background-image:url(/images/6.jpg);width:100%">
                         <div class="inner-column">
 
-                            <a href="tel:+4-144-860-9999" class="phone">
-                                <span class="icon-box flaticon-24-hours"></span>
-                                <span class="title">NOTRUFNUMMER</span><strong>0800336655</strong>
+                            <a href="tel:0800336655" class="phone">
+                                <span class="icon-box flaticon-24-hours" style="float:none;"></span>
+                                <span class="title">Aerztefon</span><strong>0800 33 66 55</strong>
                             </a>
                         </div>
                     </div>

@@ -9,7 +9,7 @@
 
         <section class="banner-section">
             <div class="banner-carousel owl-carousel owl-theme">
-                <div class="slide-item" style="background-image: url(/images/1.jpg);">
+                <div class="slide-item" style="background-image: url(/images/24.png);">
                     <div class="container xs-banner-container-parent">
                         <div class="clearfix">
                             <div class="banner-column col-lg-6 col-md-12 col-sm-12">
@@ -30,7 +30,7 @@
                     </div>
                 </div>
 
-                <div class="slide-item" style="background-image: url(/images/1.jpg);">
+                <div class="slide-item" style="background-image: url(/images/24.png);">
                     <div class="container xs-banner-container-parent">
                         <div class="clearfix">
 
@@ -52,7 +52,7 @@
                     </div>
                 </div>
 
-                <div class="slide-item" style="background-image: url(/images/1.jpg);">
+                <div class="slide-item" style="background-image: url(/images/24.png);">
                     <div class="container xs-banner-container-parent">
                         <div class="clearfix">
 
