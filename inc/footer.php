@@ -55,13 +55,18 @@
                 <div class="footer-column col-lg-6 col-md-6" style="margin-top: 35px;">
                     <div class="footer-widget times-widget">
                         <h2>Wir sind verfügbar</h2>
-                        <ul class="time-list">
+                        <!-- <ul class="time-list">
                             <li>Montag :<span>8:00-12:00 13:00 – 17:00</span></li>
                             <li>Dienstag :<span>8:00-12:00 13:00 – 17:00</span></li>
                             <li>Mittwoch :<span>8:00-12:00 13:00 – 17:00</span></li>
                             <li>Donnerstag :<span>8:00-12:00 13:00 – 17:00</span></li>
                             <li>Freitag :<span>8:00-12:00 13:00 – 17:00</span></li>
+                        </ul> -->
+                        <ul class="mt-5">
+                            <li>Mo bis Fr: 8:00 – 12:00</li>
+                            <li>Mo bis Fr: 13:00 – 17:00</li>
                         </ul>
+                        <p class="mt-5rem">Notfälle ausserhalb der Sprechstundenzeiten bitten wir Sie, die Nummer des Aerztefon 0800 33 66 55 (kostenlos) zu wählen.</p>
                     </div>
                 </div>
             </div>

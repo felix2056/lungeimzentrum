@@ -504,7 +504,8 @@ li {
     background-position: center center;
     background-repeat: no-repeat;
     background-size: 100px;
-    background-image: url(../fonts/preloader.svg)
+    /* background-image: url(../fonts/preloader.svg) */
+    background-image: url('/images/icon.png');
 }
 
 img {
@@ -1782,6 +1783,10 @@ img {
     font-weight: 500;
     margin-top: 18px !important;
     line-height: 1.8em
+}
+
+.section-title.light p {
+    color: #fff
 }
 
 .section-title.text-center .text {
@@ -5359,7 +5364,7 @@ img {
 .services-section-two {
     position: relative;
     padding: 90px 0;
-    background-color: #ecf9f5
+    background-color: #0C96C5;
 }
 
 .services-section-two.style-two {

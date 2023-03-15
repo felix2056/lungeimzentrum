@@ -9,12 +9,12 @@
 
         <section class="banner-section">
             <div class="banner-carousel owl-carousel owl-theme">
-                <div class="slide-item" style="background-image: url(/images/24.png);">
+                <div class="slide-item" style="background-image: url(/images/banner.png);">
                     <div class="container xs-banner-container-parent">
                         <div class="clearfix">
                             <div class="banner-column col-lg-6 col-md-12 col-sm-12">
                                 <div class="title wow fadeInUp" data-wow-delay="250ms">Lunge im Zentrum</div>
-                                <h2 class="wow fadeInUp" data-wow-delay="500ms">Fachärzte für Pneumologie und allgemeine Innere Medizin</h2>
+                                <h2 class="wow fadeInUp" data-wow-delay="500ms">Fachärzte für Pneumologie und Allgemeine Innere Medizin</h2>
                                 <p class="text wow fadeInUp" data-wow-delay="750ms">Unsere Praxis für Pneumologie und Schlafmedizin befindet sich in barrierefreien Räumen im Zentrum von Bülach, wenige Gehminuten vom Bahnhof entfernt.</p>
                                 <div class="link-box wow fadeInUp" data-wow-delay="1000ms">
                                     <!-- <a href="department.html" class="theme-btn btn-style-two"><i>Book Now</i> <span
@@ -30,13 +30,13 @@
                     </div>
                 </div>
 
-                <div class="slide-item" style="background-image: url(/images/24.png);">
+                <div class="slide-item" style="background-image: url(/images/banner.png);">
                     <div class="container xs-banner-container-parent">
                         <div class="clearfix">
 
                             <div class="banner-column col-lg-6 col-md-12 col-sm-12">
                                 <div class="title wow fadeInUp" data-wow-delay="250ms">Lunge im Zentrum</div>
-                                <h2 class="wow fadeInUp" data-wow-delay="500ms">Fachärzte für Pneumologie und allgemeine Innere Medizin</h2>
+                                <h2 class="wow fadeInUp" data-wow-delay="500ms">Fachärzte für Pneumologie und Allgemeine Innere Medizin</h2>
                                 <p class="text wow fadeInUp" data-wow-delay="750ms">Wir sind sowohl mit öffentlichen Verkehrsmitteln als auch mit dem Auto gut zu erreichen. Unsere Praxis ist mit barrierefreien Räumen ausgestattet. Der Haupteingang befindet sich auf der rechten Seite des Gebäudes, es gibt linksseitig einen stufenfreien Direktzugang.</p>
                                 <div class="link-box wow fadeInUp" data-wow-delay="1000ms">
                                     <!-- <a href="department.html" class="theme-btn btn-style-two"><i>Book Now</i> <span
@@ -52,13 +52,13 @@
                     </div>
                 </div>
 
-                <div class="slide-item" style="background-image: url(/images/24.png);">
+                <div class="slide-item" style="background-image: url(/images/banner.png);">
                     <div class="container xs-banner-container-parent">
                         <div class="clearfix">
 
                             <div class="banner-column col-lg-6 col-md-12 col-sm-12">
                                 <div class="title wow fadeInUp" data-wow-delay="250ms">Lunge im Zentrum</div>
-                                <h2 class="wow fadeInUp" data-wow-delay="500ms">Fachärzte für Pneumologie und allgemeine Innere Medizin</h2>
+                                <h2 class="wow fadeInUp" data-wow-delay="500ms">Fachärzte für Pneumologie und Allgemeine Innere Medizin</h2>
                                 <p class="text wow fadeInUp" data-wow-delay="750ms">Als erfahrene Lungenfachärzte bieten wir in unserer neu eröffneten Praxis das gesamte Spektrum der Pneumologie an inklusive Leistungsdiagnostik. Ebenfalls machen wir die Diagnostik und Therapie der schlafgebundenen Atemstörungen.</p>
                                 <div class="link-box wow fadeInUp" data-wow-delay="1000ms">
                                     <!-- <a href="department.html" class="theme-btn btn-style-two"><i>Book Now</i> <span
@@ -248,86 +248,156 @@
             </div>
         </section>
 
-        <section class="services-section-two">
+        <section class="services-section-two" id="services-section-two">
             <div class="container">
 
-                <div class="section-title text-center">
+                <div class="section-title light text-center">
                     <h2>Unser Angebot</h2>
-                    <p class="text">Lungenfunktionsmessungen, Gasaustausch, Blutgasanalysen, Sofort-Labor inkl. Eosinophilenzahl, Spiroergometrie, Schlafapnoeabklärung und entsprechende Therapieeinleitung.</p>
                     <p class="text">Egal ob Sie zu uns wegen Husten oder Atemnot, COPD oder Asthma und Allergien, Rauchen oder Schnarchen kommen: Neben der optimalen medizinischen Diagnostik ist uns eine umfassende und fürsorgliche Behandlung sehr wichtig.</p>
                     <p class="text">Wir hoffen, Ihnen einen nützlichen Überblick unserer Lungenpraxis gegeben zu haben. Bei Fragen nehmen Sie bitte mit uns Kontakt auf. Wir sind gerne für Sie da.</p>
                 </div>
 
                 <div class="row">
                     <div class="services-block col-lg-6 col-md-12 col-sm-12">
-                        <div class="inner-box">
+                        <div class="inner-box d-flex">
                             <div class="content">
                                 <div class="icon-box">
-                                    <span class="icon"><img src="/images/icon-1.png" alt=""></span>
+                                    <span class="icon"><img src="/images/services/lungs.png" alt=""></span>
                                 </div>
+                            </div>
+
+                            <div class="content">
                                 <h3><a href="#">Lungenfunktion</a></h3>
-                                <p>Spirometrie, Bodyplethysmographie (grosse Lungenfunktion), Bronchospasmolysetest, Bronchoprovokation mit Methacholin, 6-Minuten-Gehtest, CO-Diffusionsmessung</p>
+                                <span>
+                                    <ul>
+                                        <li>- Spirometrie, Bodyplethysmographie (grosse Lungenfunktion)</li>
+                                        <li>- CO-Diffusionsmessung (Messung des Gasaustausches)</li>
+                                        <li>- Spasmolysetest</li>
+                                        <li>- Inhalative Provokation mit Metacholin</li>
+                                        <li>- FeNO-Test (NO-Messung in der Ausatemluft)</li>
+                                        <li>- Atemantriebsmessungen (Po1/Pmax)</li>
+                                    </ul>
+                                </span>
                             </div>
                         </div>
                     </div>
 
                     <div class="services-block col-lg-6 col-md-12 col-sm-12">
-                        <div class="inner-box">
+                        <div class="inner-box d-flex">
                             <div class="content">
                                 <div class="icon-box">
-                                    <span class="icon"><img src="/images/icon-2.png" alt=""></span>
+                                    <span class="icon"><img src="/images/services/treadmill.png" alt=""></span>
                                 </div>
-                                <h3><a href="#">Allergologie</a></h3>
-                                <p>Haut-Prick-Test, Bluttests, FeNO</p>
+                            </div>
+                            <div class="content">
+                                <h3><a href="#">Leistungsdiagnostik</a></h3>
+                                <span>
+                                    <ul>
+                                        <li>- Ergospirometrie</li>
+                                        <li>- Ergometrie</li>
+                                        <li>- EIA-Test (Anstrengungsinduziertees Asthma)</li>
+                                        <li>- 6-Minuten-Gehtest</li>
+                                    </ul>
+                                </span>
                             </div>
                         </div>
                     </div>
 
                     <div class="services-block col-lg-6 col-md-12 col-sm-12">
-                        <div class="inner-box">
+                        <div class="inner-box d-flex">
                             <div class="content">
                                 <div class="icon-box">
-                                    <span class="icon"><img src="/images/icon-3.png" alt=""></span>
+                                    <span class="icon"><img src="/images/services/ultrasound.png" alt=""></span>
                                 </div>
+                            </div>
+                            <div class="content">
                                 <h3><a href="#">Ultraschall</a></h3>
-                                <p>Pleurasonographie, Pleurapunktion (diagnostisch / therapeutisch), Pleurx-Katheter Einlage (ambulant sowie stationär)</p>
+                                <span>
+                                    <ul>
+                                        <li>- Pleurasonoographie</li>
+                                        <li>- Pleurapunktion (diagnostisch/therapeutisch)</li>
+                                        <li>- Pleurx-Katheter-Einlage (ambulant sowie Stationär)</li>
+                                    </ul>
+                                </span>
                             </div>
                         </div>
                     </div>
 
                     <div class="services-block col-lg-6 col-md-12 col-sm-12">
-                        <div class="inner-box">
+                        <div class="inner-box d-flex">
                             <div class="content">
                                 <div class="icon-box">
-                                    <span class="icon"><img src="/images/icon-4.png" alt=""></span>
+                                    <span class="icon"><img src="/images/services/allergy.png" alt=""></span>
                                 </div>
+                            </div>
+                            <div class="content">
+                                <h3><a href="#">Allergologie</a></h3>
+                                <span>
+                                    <ul>
+                                        <li>- Hauttestung (Prick-Test)</li>
+                                        <li>- Serologie (Blutanalyse)</li>
+                                        <li>- Desensibilisierung (subkutan/sublingual)</li>
+                                    </ul>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="services-block col-lg-6 col-md-12 col-sm-12">
+                        <div class="inner-box d-flex">
+                            <div class="content">
+                                <div class="icon-box">
+                                    <span class="icon"><img src="/images/services/telescope.png" alt=""></span>
+                                </div>
+                            </div>
+                            <div class="content">
                                 <h3><a href="#">Endoskopie</a></h3>
-                                <p>Bronchoskopie mit, TBB, BAL, FNP, Schleimhautbiopsie, bronchiale Biopsie, Endobronchialen Ultraschall mit TBNA, Internistische Thorakoskopie mit, Pleurodese, Endoskopische Eingriffe führen wir als Konsiliar/Belegärzte am Spital Bülach durch.</p>
+                                <span>
+                                    <ul>
+                                        <li>- Bronchoskopie mit transbronchialer Biopsie und bronchioalveolärer Lavage</li>
+                                        <li>- Endobronchialer Ultraschall mit transbronchialerFeinnadelPunktion</li>
+                                        <li>- Thorakoskopie mit Pleurodese</li>
+                                    </ul>
+                                </span>
                             </div>
                         </div>
                     </div>
 
                     <div class="services-block col-lg-6 col-md-12 col-sm-12">
-                        <div class="inner-box">
+                        <div class="inner-box d-flex">
                             <div class="content">
                                 <div class="icon-box">
-                                    <span class="icon"><img src="/images/icon-5.png" alt=""></span>
+                                    <span class="icon"><img src="/images/services/sleep.png" alt=""></span>
                                 </div>
-                                <h3><a href="#">Spiroergometrie</a></h3>
-                                <!-- <p>Unser außergewöhnliches und erfahrenes Personal widmet sich der Verbesserung der pulmonologischen Gesundheit unserer Patienten und der Verbesserung des Lächelns.</p> -->
-                                <p>Atemantriebsmessungen P01/Pmax, Arterielle Blutgasanalyse, Ruhe-EKG, Ergometrie und Ergospirometrie, Ergooxtensiometrie, EIA-Test (anstrengungsinduziertes Asthma)</p>
                             </div>
-                        </div>
-                    </div>
-
-                    <div class="services-block col-lg-6 col-md-12 col-sm-12">
-                        <div class="inner-box">
                             <div class="content">
-                                <div class="icon-box">
-                                    <span class="icon"><img src="/images/icon-6.png" alt=""></span>
-                                </div>
                                 <h3><a href="#">Schlafapnoe Abklärung</a></h3>
-                                <p>Unser außergewöhnliches und erfahrenes Personal widmet sich der Verbesserung der pulmonologischen Gesundheit unserer Patienten und der Verbesserung des Lächelns.</p>
+                                <span>
+                                    <ul>
+                                        <li>- Nächtliche Sauerstoffmessung (Pulsoxymetrie)</li>
+                                        <li>- Nächtliche respiratorische Polygraphie</li>
+                                        <li>- Einstellung nächtliche CPAP, ASV-oder BiPAP-Therapie</li>
+                                    </ul>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="services-block col-lg-12 col-md-12 col-sm-12">
+                        <div class="inner-box text-center">
+                            <div class="content">
+                                <div class="icon-box">
+                                    <span class="icon"><img src="/images/services/blood.png" alt=""></span>
+                                </div>
+                            </div>
+                            <div class="content">
+                                <h3><a href="#">Labor</a></h3>
+                                <span>
+                                    <ul>
+                                        <li>- Präsenzdiagnostik</li>
+                                        <li>- Arterielle Blutgasanalyse (Einstellung der Sauerstoff-Therapie)</li>
+                                    </ul>
+                                </span>
                             </div>
                         </div>
                     </div>
@@ -335,7 +405,7 @@
             </div>
         </section>
 
-        <section class="team-section">
+        <section class="team-section" id="team-section">
             <div class="team-pattern-layer" style="background-image:url(/images/pattern-1.png)"></div>
             <div class="team-pattern-layer-two" style="background-image:url(/images/pattern-5.png)"></div>
             <div class="container">
@@ -840,7 +910,7 @@
         </section> -->
 
         <section class="gallery-section">
-            <div class="image-layer" style="background-image:url(/images/4.jpg)"></div>
+            <div class="image-layer" style="background-image:url(/images/4_3.jpg)"></div>
             <div class="container">
                 <div class="title-box">
                     <h2>Galerie von Lunge im Zentrum</h2>
@@ -1327,29 +1397,9 @@
             </div>
         </section> -->
 
-        <section class="fullwidth-section-two">
+        <!-- <section class="fullwidth-section-two">
             <div class="outer-container">
                 <div class="clearfix">
-
-                    <!-- <div class="left-column" style="background-image:url(/images/5.jpg)">
-                        <div class="inner-column">
-                            <h2>Abonnieren Sie unsere <br> Newsletter</h2>
-
-                            <div class="subscribe-form">
-                                <form method="post" action="contact.html">
-                                    <div class="form-group">
-                                        <input type="email" name="email" value="" placeholder="Enter your mail here"
-                                            required="">
-                                        <button type="submit" class="theme-btn subscribe-btn"><span
-                                                class="icon icon-envelope3"></span> Abonnieren</button>
-                                    </div>
-                                </form>
-                            </div>
-
-                            <p class="text">***Wir versprechen, kein Spam!</p>
-                        </div>
-                    </div> -->
-
                     <div class="right-column text-center" style="background-image:url(/images/6.jpg);width:100%">
                         <div class="inner-column">
 
@@ -1361,7 +1411,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
 
         <?php include 'inc/footer.php'; ?>
     </div>

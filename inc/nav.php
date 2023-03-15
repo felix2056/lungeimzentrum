@@ -55,14 +55,20 @@
                     <div class="elementskit-menu-container elementskit-menu-offcanvas-elements">
                         <ul class="elementskit-navbar-nav nav-alignment-dynamic">
                             <li>
-                                <a href="/">Home</a>
+                                <a href="/">Start</a>
+                            </li>
+                            <li>
+                                <a href="/#services-section-two">Leistungen</a>
+                            </li>
+                            <li>
+                                <a href="/#team-section">Team</a>
                             </li>
                             <!-- <li>
                                 <a href="/about.php">About</a>
                             </li> -->
                             <!-- <li><a href="/department.php">Department</a></li> -->
                             <!-- <li><a href="/services.php">Services</a></li> -->
-                            <li><a href="/contact.php">Contact</a></li>
+                            <li><a href="/contact.php">Kontakt</a></li>
                             <!-- <li class="elementskit-dropdown-has"><a href="/#">Doctor</a>
                                 <ul class="elementskit-dropdown elementskit-submenu-panel">
                                     <li><a href="/doctor.html">doctor</a></li>
@@ -118,13 +124,13 @@
                     </div>
                 </nav>
 
-                <ul class="xs-menu-tools">
+                <!-- <ul class="xs-menu-tools">
                     <li>
                         <a href="/#modal-popup-2" class="navsearch-button xs-modal-popup">
                             <i class="icon icon-search"></i>
                         </a>
                     </li>
-                </ul>
+                </ul> -->
             </div>
         </div>
     </div>

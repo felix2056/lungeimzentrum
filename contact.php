@@ -7,16 +7,16 @@
 
         <?php include 'inc/nav.php'; ?>
 
-        <section class="page-title">
+        <!-- <section class="page-title">
             <div class="outer-container">
                 <div class="image">
                     <img src="/images/24.jpg" alt="">
                 </div>
             </div>
-        </section>
+        </section> -->
 
 
-        <section class="page-breadcrumb">
+        <!-- <section class="page-breadcrumb">
             <div class="image-layer" style="background-image:url(/images/1.png)"></div>
             <div class="container">
                 <div class="clearfix">
@@ -33,7 +33,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
 
 
         <section class="contact-page-section" style="background-image:url(/images/25.jpg)">
@@ -57,8 +57,8 @@
                                             <div class="icon-box">
                                                 <span class="icon flaticon-map-pin-marked"></span>
                                             </div>
-                                            <h4>Address</h4>
-                                            <p class="text">Bahnhofstrasse 3, CH-8180 Bülach <br> Parkplätze Im Umkreis von ca 200 m befinden sich ausreichend öffentliche Parkplätze</p>
+                                            <h4>Adresse</h4>
+                                            <p class="text">Bahnhofstrasse 3, CH-8180 Bülach</p>
                                         </div>
                                     </div>
                                 </div>
@@ -69,7 +69,7 @@
                                             <div class="icon-box">
                                                 <span class="icon flaticon-phone-call"></span>
                                             </div>
-                                            <h4>Telefone</h4>
+                                            <h4>Telefon</h4>
                                             <p class="text">+41 44 860 99 99</p>
                                         </div>
                                     </div>
@@ -81,7 +81,7 @@
                                             <div class="icon-box">
                                                 <span class="icon flaticon-clock"></span>
                                             </div>
-                                            <h4>Opening Hours</h4>
+                                            <h4>Öffnungszeiten</h4>
                                             <p class="text">08:00-12:00 , 13:00 bis 17:00</p>
                                         </div>
                                     </div>
@@ -188,28 +188,9 @@
         </section> -->
 
 
-        <section class="fullwidth-section-two">
+        <!-- <section class="fullwidth-section-two">
             <div class="outer-container">
                 <div class="clearfix">
-
-                    <!-- <div class="left-column" style="background-image:url(/images/5.jpg)">
-                        <div class="inner-column">
-                            <h2>Abonnieren Sie unsere <br> Newsletter</h2>
-
-                            <div class="subscribe-form">
-                                <form method="post" action="contact.html">
-                                    <div class="form-group">
-                                        <input type="email" name="email" value="" placeholder="Enter your mail here"
-                                            required="">
-                                        <button type="submit" class="theme-btn subscribe-btn"><span
-                                                class="icon icon-envelope3"></span> Abonnieren</button>
-                                    </div>
-                                </form>
-                            </div>
-
-                            <p class="text">***Wir versprechen, kein Spam!</p>
-                        </div>
-                    </div> -->
 
                     <div class="right-column text-center" style="background-image:url(/images/6.jpg);width:100%">
                         <div class="inner-column">
@@ -222,7 +203,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
 
 
         <?php include 'inc/footer.php'; ?>
