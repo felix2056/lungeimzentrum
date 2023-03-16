@@ -13,8 +13,8 @@
     <link href="https://fonts.googleapis.com/css?family=Poppins:200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i,900,900i" rel="stylesheet">
 
-    <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
-    <link rel="icon" href="/images/favicon.png" type="image/x-icon">
+    <link rel="shortcut icon" href="/images/icon.png" type="image/x-icon">
+    <link rel="icon" href="/images/icon.png" type="image/x-icon">
     <title>Lunge im Zentrum | Fachärzte für Pneumologie und allgemeine Innere Medizin</title>
 
     <link href="/css/bootstrap.css" rel="stylesheet">
