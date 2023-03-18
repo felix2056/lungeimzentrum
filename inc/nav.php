@@ -32,7 +32,7 @@
         <div class="container">
             <div class="xs-navbar clearfix">
                 <div class="logo-outer">
-                    <div class="logo"><a href="/"><img src="/images/logo-nobg.png" width="120" height="130"></a></div>
+                    <div class="logo"><a href="/"><img src="/images/logo-nobg.png" width="140" height="140"></a></div>
                 </div>
 
                 <nav class="elementskit-navbar">

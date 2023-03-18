@@ -697,6 +697,16 @@
                 if ( $( '.navbar-toggle' ).css( 'display' ) != 'none' ) {
                     $( this ).parents( '.container' ).find( ".navbar-toggle" ).trigger( "click" );
                 }
+
+				var parent_conatiner = $(this).parents('.elementskit-menu-container').parent();
+				if (parent_conatiner.length < 1) {
+					parent_conatiner = $(this).parent();
+				}
+				var off_canvas_class = parent_conatiner.find('.elementskit-menu-offcanvas-elements');
+				if (off_canvas_class.hasClass('active')) {
+					off_canvas_class.removeClass('active');
+				}
+				
                 return false;
             }
         }

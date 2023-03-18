@@ -15,7 +15,7 @@
                             <div class="banner-column col-lg-6 col-md-12 col-sm-12">
                                 <div class="title wow fadeInUp" data-wow-delay="250ms">Lunge im Zentrum</div>
                                 <h2 class="wow fadeInUp" data-wow-delay="500ms">Fachärzte für Pneumologie und Allgemeine Innere Medizin</h2>
-                                <p class="text wow fadeInUp" data-wow-delay="750ms">Unsere Praxis für Pneumologie und Schlafmedizin befindet sich in barrierefreien Räumen im Zentrum von Bülach, wenige Gehminuten vom Bahnhof entfernt.</p>
+                                <!-- <p class="text wow fadeInUp" data-wow-delay="750ms">Unsere Praxis für Pneumologie und Schlafmedizin befindet sich in barrierefreien Räumen im Zentrum von Bülach, wenige Gehminuten vom Bahnhof entfernt.</p> -->
                                 <div class="link-box wow fadeInUp" data-wow-delay="1000ms">
                                     <!-- <a href="department.html" class="theme-btn btn-style-two"><i>Book Now</i> <span
                                             class="arrow icon icon-arrow_right"></span>
@@ -37,7 +37,7 @@
                             <div class="banner-column col-lg-6 col-md-12 col-sm-12">
                                 <div class="title wow fadeInUp" data-wow-delay="250ms">Lunge im Zentrum</div>
                                 <h2 class="wow fadeInUp" data-wow-delay="500ms">Fachärzte für Pneumologie und Allgemeine Innere Medizin</h2>
-                                <p class="text wow fadeInUp" data-wow-delay="750ms">Wir sind sowohl mit öffentlichen Verkehrsmitteln als auch mit dem Auto gut zu erreichen. Unsere Praxis ist mit barrierefreien Räumen ausgestattet. Der Haupteingang befindet sich auf der rechten Seite des Gebäudes, es gibt linksseitig einen stufenfreien Direktzugang.</p>
+                                <!-- <p class="text wow fadeInUp" data-wow-delay="750ms">Wir sind sowohl mit öffentlichen Verkehrsmitteln als auch mit dem Auto gut zu erreichen. Unsere Praxis ist mit barrierefreien Räumen ausgestattet. Der Haupteingang befindet sich auf der rechten Seite des Gebäudes, es gibt linksseitig einen stufenfreien Direktzugang.</p> -->
                                 <div class="link-box wow fadeInUp" data-wow-delay="1000ms">
                                     <!-- <a href="department.html" class="theme-btn btn-style-two"><i>Book Now</i> <span
                                             class="arrow icon icon-arrow_right"></span>
@@ -59,7 +59,7 @@
                             <div class="banner-column col-lg-6 col-md-12 col-sm-12">
                                 <div class="title wow fadeInUp" data-wow-delay="250ms">Lunge im Zentrum</div>
                                 <h2 class="wow fadeInUp" data-wow-delay="500ms">Fachärzte für Pneumologie und Allgemeine Innere Medizin</h2>
-                                <p class="text wow fadeInUp" data-wow-delay="750ms">Als erfahrene Lungenfachärzte bieten wir in unserer neu eröffneten Praxis das gesamte Spektrum der Pneumologie an inklusive Leistungsdiagnostik. Ebenfalls machen wir die Diagnostik und Therapie der schlafgebundenen Atemstörungen.</p>
+                                <!-- <p class="text wow fadeInUp" data-wow-delay="750ms">Als erfahrene Lungenfachärzte bieten wir in unserer neu eröffneten Praxis das gesamte Spektrum der Pneumologie an inklusive Leistungsdiagnostik. Ebenfalls machen wir die Diagnostik und Therapie der schlafgebundenen Atemstörungen.</p> -->
                                 <div class="link-box wow fadeInUp" data-wow-delay="1000ms">
                                     <!-- <a href="department.html" class="theme-btn btn-style-two"><i>Book Now</i> <span
                                             class="arrow icon icon-arrow_right"></span></a> -->
@@ -538,7 +538,7 @@
             </div>
         </section>
 
-        <section class="video-section" style="background-image:url(/images/main-bg.png)">
+        <section class="video-section" style="background-image:url(/images/main-bg.jpeg)">
             <div class="container">
                 <h4>Egal ob Sie zu uns wegen Husten oder Atemnot, COPD oder Asthma und Allergien, Rauchen oder Schnarchen kommen: Neben der optimalen medizinischen Diagnostik ist uns eine umfassende und fürsorgliche Behandlung sehr wichtig.</h4>
                 <!-- <a href="https://www.youtube.com/watch?v=Fvae8nxzVz4" class="play-button" data-fancybox="gallery" data-caption="">
