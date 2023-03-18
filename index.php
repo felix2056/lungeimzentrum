@@ -911,7 +911,7 @@
         </section> -->
 
         <section class="gallery-section">
-            <div class="image-layer" style="background-image:url(/images/4_3.jpg)"></div>
+            <div class="image-layer" style="background-image:url(/images/main-bg-2.jpeg)"></div>
             <div class="container">
                 <div class="title-box">
                     <h2>Galerie von Lunge im Zentrum</h2>
