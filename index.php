@@ -442,7 +442,7 @@
                                 <div class="icon-box">
                                     <span class="icon icon-heart1"></span>
                                 </div>
-                                <h3><a href="/assets/Kuz-CV_Bassam_Atmeh_-_Leitender_Arzt_Pneumologie.pdf" target="_blank">Bassam Atmeh</a></h3>
+                                <h3><a href="/assets/Kuz-CV_Bassam_Atmeh_-_Leitender_Arzt_Pneumologie.pdf" target="_blank">Bassam Atmeh, dipl. Arzt</a></h3>
                                 <p class="designation">Facharzt FMH Pneumologie Facharzt FMH Allgemein Innere Medizin</p>
                             </div>
                         </div>
