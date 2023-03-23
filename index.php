@@ -423,9 +423,9 @@
                         <div class="inner-box">
                             <div class="image">
                                 <img src="/images/doctor-1.jpeg" alt="">
-                                <div class="overlay-box">
+                                <!-- <div class="overlay-box">
                                     <div class="overlay-inner">
-                                        <!-- <ul class="team-social-box">
+                                        <ul class="team-social-box">
                                             <li class="youtube"><a href="#" class="icon icon-youtube"></a><span
                                                     class="social-name">youtube</span></li>
                                             <li class="linkedin"><a href="#" class="icon icon-linkedin"></a><span
@@ -434,14 +434,14 @@
                                                     class="social-name">facebook</span></li>
                                             <li class="twitter"><a href="#" class="icon icon-twitter"></a><span
                                                     class="social-name">twitter</span></li>
-                                        </ul> -->
+                                        </ul>
                                     </div>
-                                </div>
+                                </div> -->
                             </div>
                             <div class="lower-content">
-                                <div class="icon-box">
+                                <!-- <div class="icon-box">
                                     <span class="icon icon-heart1"></span>
-                                </div>
+                                </div> -->
                                 <h3><a href="/assets/Kuz-CV_Bassam_Atmeh_-_Leitender_Arzt_Pneumologie.pdf" target="_blank">Bassam Atmeh, dipl. Arzt</a></h3>
                                 <p class="designation">Facharzt FMH Pneumologie Facharzt FMH Allgemein Innere Medizin</p>
                             </div>
@@ -452,9 +452,9 @@
                         <div class="inner-box">
                             <div class="image">
                                 <img src="https://via.placeholder.com/255x255" alt="">
-                                <div class="overlay-box">
+                                <!-- <div class="overlay-box">
                                     <div class="overlay-inner">
-                                        <!-- <ul class="team-social-box">
+                                        <ul class="team-social-box">
                                             <li class="youtube"><a href="#" class="icon icon-youtube"></a><span
                                                     class="social-name">youtube</span></li>
                                             <li class="linkedin"><a href="#" class="icon icon-linkedin"></a><span
@@ -463,14 +463,14 @@
                                                     class="social-name">facebook</span></li>
                                             <li class="twitter"><a href="#" class="icon icon-twitter"></a><span
                                                     class="social-name">twitter</span></li>
-                                        </ul> -->
+                                        </ul>
                                     </div>
-                                </div>
+                                </div> -->
                             </div>
                             <div class="lower-content">
-                                <div class="icon-box">
+                                <!-- <div class="icon-box">
                                     <span class="icon icon-heart1"></span>
-                                </div>
+                                </div> -->
                                 <h3><a href="#">Dr. med. Bruno Senn</a></h3>
                                 <p class="designation">Facharzt FMH Pneumologie Facharzt FMH Allgemein Innere Medizin</p>
                             </div>
@@ -481,9 +481,9 @@
                         <div class="inner-box">
                             <div class="image">
                                 <img src="https://via.placeholder.com/255x255" alt="">
-                                <div class="overlay-box">
+                                <!-- <div class="overlay-box">
                                     <div class="overlay-inner">
-                                        <!-- <ul class="team-social-box">
+                                        <ul class="team-social-box">
                                             <li class="youtube"><a href="#" class="icon icon-youtube"></a><span
                                                     class="social-name">youtube</span></li>
                                             <li class="linkedin"><a href="#" class="icon icon-linkedin"></a><span
@@ -492,14 +492,14 @@
                                                     class="social-name">facebook</span></li>
                                             <li class="twitter"><a href="#" class="icon icon-twitter"></a><span
                                                     class="social-name">twitter</span></li>
-                                        </ul> -->
+                                        </ul>
                                     </div>
-                                </div>
+                                </div> -->
                             </div>
                             <div class="lower-content">
-                                <div class="icon-box">
+                                <!-- <div class="icon-box">
                                     <span class="icon icon-heart1"></span>
-                                </div>
+                                </div> -->
                                 <h3><a href="#">Ilenia Iuorno</a></h3>
                                 <p class="designation">Medizinische Praxisassistentin</p>
                             </div>
@@ -510,9 +510,9 @@
                         <div class="inner-box">
                             <div class="image">
                                 <img src="https://via.placeholder.com/255x255" alt="">
-                                <div class="overlay-box">
+                                <!-- <div class="overlay-box">
                                     <div class="overlay-inner">
-                                        <!-- <ul class="team-social-box">
+                                        <ul class="team-social-box">
                                             <li class="youtube"><a href="#" class="icon icon-youtube"></a><span
                                                     class="social-name">youtube</span></li>
                                             <li class="linkedin"><a href="#" class="icon icon-linkedin"></a><span
@@ -521,14 +521,14 @@
                                                     class="social-name">facebook</span></li>
                                             <li class="twitter"><a href="#" class="icon icon-twitter"></a><span
                                                     class="social-name">twitter</span></li>
-                                        </ul> -->
+                                        </ul>
                                     </div>
-                                </div>
+                                </div> -->
                             </div>
                             <div class="lower-content">
-                                <div class="icon-box">
+                                <!-- <div class="icon-box">
                                     <span class="icon icon-heart1"></span>
-                                </div>
+                                </div> -->
                                 <h3><a href="#">Cinzia Ciccone</a></h3>
                                 <p class="designation">Medizinische Praxisassistentin</p>
                             </div>
@@ -926,10 +926,10 @@
                                 <div class="overlay-box">
                                     <div class="overlay-inner">
                                         <div class="overlay-content">
-                                            <div class="icon-box">
+                                            <!-- <div class="icon-box">
                                                 <span class="icon icon-heart1"></span>
-                                            </div>
-                                            <h3><a href="javascript:void(0)">Online-Medizin</a></h3>
+                                            </div> -->
+                                            <!-- <h3><a href="javascript:void(0)">Online-Medizin</a></h3> -->
                                             <a class="plus" href="images/1_1.jpg" data-fancybox="gallery-1"
                                                 data-caption=""><span class="flaticon-plus-symbol"></span></a>
                                         </div>
@@ -947,10 +947,10 @@
                                 <div class="overlay-box">
                                     <div class="overlay-inner">
                                         <div class="overlay-content">
-                                            <div class="icon-box">
+                                            <!-- <div class="icon-box">
                                                 <span class="icon icon-heart1"></span>
-                                            </div>
-                                            <h3><a href="javascript:void(0)">Online-Medizin</a></h3>
+                                            </div> -->
+                                            <!-- <h3><a href="javascript:void(0)">Online-Medizin</a></h3> -->
                                             <a class="plus" href="images/2.jpg" data-fancybox="gallery-1"
                                                 data-caption=""><span class="flaticon-plus-symbol"></span></a>
                                         </div>
@@ -968,10 +968,10 @@
                                 <div class="overlay-box">
                                     <div class="overlay-inner">
                                         <div class="overlay-content">
-                                            <div class="icon-box">
+                                            <!-- <div class="icon-box">
                                                 <span class="icon icon-heart1"></span>
-                                            </div>
-                                            <h3><a href="javascript:void(0)">Online-Medizin</a></h3>
+                                            </div> -->
+                                            <!-- <h3><a href="javascript:void(0)">Online-Medizin</a></h3> -->
                                             <a class="plus" href="images/3_1.jpg" data-fancybox="gallery-1"
                                                 data-caption=""><span class="flaticon-plus-symbol"></span></a>
                                         </div>
@@ -989,10 +989,10 @@
                                 <div class="overlay-box">
                                     <div class="overlay-inner">
                                         <div class="overlay-content">
-                                            <div class="icon-box">
+                                            <!-- <div class="icon-box">
                                                 <span class="icon icon-heart1"></span>
-                                            </div>
-                                            <h3><a href="javascript:void(0)">Online-Medizin</a></h3>
+                                            </div> -->
+                                            <!-- <h3><a href="javascript:void(0)">Online-Medizin</a></h3> -->
                                             <a class="plus" href="images/4_1.jpg" data-fancybox="gallery-1"
                                                 data-caption=""><span class="flaticon-plus-symbol"></span></a>
                                         </div>
@@ -1010,10 +1010,10 @@
                                 <div class="overlay-box">
                                     <div class="overlay-inner">
                                         <div class="overlay-content">
-                                            <div class="icon-box">
+                                            <!-- <div class="icon-box">
                                                 <span class="icon icon-heart1"></span>
-                                            </div>
-                                            <h3><a href="javascript:void(0)">Online-Medizin</a></h3>
+                                            </div> -->
+                                            <!-- <h3><a href="javascript:void(0)">Online-Medizin</a></h3> -->
                                             <a class="plus" href="images/5_1.jpg" data-fancybox="gallery-1"
                                                 data-caption=""><span class="flaticon-plus-symbol"></span></a>
                                         </div>
@@ -1031,10 +1031,10 @@
                                 <div class="overlay-box">
                                     <div class="overlay-inner">
                                         <div class="overlay-content">
-                                            <div class="icon-box">
+                                            <!-- <div class="icon-box">
                                                 <span class="icon icon-heart1"></span>
-                                            </div>
-                                            <h3><a href="javascript:void(0)">Online-Medizin</a></h3>
+                                            </div> -->
+                                            <!-- <h3><a href="javascript:void(0)">Online-Medizin</a></h3> -->
                                             <a class="plus" href="images/6_1.jpg" data-fancybox="gallery-1"
                                                 data-caption=""><span class="flaticon-plus-symbol"></span></a>
                                         </div>
