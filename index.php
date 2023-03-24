@@ -51,27 +51,6 @@
                         </div>
                     </div>
                 </div>
-
-                <div class="slide-item" style="background-image: url(/images/banner.png);">
-                    <div class="container xs-banner-container-parent">
-                        <div class="clearfix">
-
-                            <div class="banner-column col-lg-6 col-md-12 col-sm-12">
-                                <div class="title wow fadeInUp" data-wow-delay="250ms">Lunge im Zentrum</div>
-                                <h2 class="wow fadeInUp" data-wow-delay="500ms">Fachärzte für Pneumologie und Allgemeine Innere Medizin</h2>
-                                <!-- <p class="text wow fadeInUp" data-wow-delay="750ms">Als erfahrene Lungenfachärzte bieten wir in unserer neu eröffneten Praxis das gesamte Spektrum der Pneumologie an inklusive Leistungsdiagnostik. Ebenfalls machen wir die Diagnostik und Therapie der schlafgebundenen Atemstörungen.</p> -->
-                                <div class="link-box wow fadeInUp" data-wow-delay="1000ms">
-                                    <!-- <a href="department.html" class="theme-btn btn-style-two"><i>Book Now</i> <span
-                                            class="arrow icon icon-arrow_right"></span></a> -->
-                                </div>
-                            </div>
-
-                            <!-- <div class="image">
-                                <img src="/images/content-image-3.png" alt="">
-                            </div> -->
-                        </div>
-                    </div>
-                </div>
             </div>
         </section>
 
@@ -916,8 +895,8 @@
                 <div class="title-box">
                     <h2>Galerie von Lunge im Zentrum</h2>
                 </div>
-                <div class="row">
 
+                <div class="row">
                     <div class="project-block col-lg-4 col-md-6 col-sm-12">
                         <div class="inner-box">
                             <div class="image">
