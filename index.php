@@ -9,7 +9,7 @@
 
         <section class="banner-section">
             <div class="banner-carousel owl-carousel owl-theme">
-                <div class="slide-item" style="background-image: url(/images/banner.png);">
+                <div class="slide-item" style="background-image: url(/images/L1000369-A.jpg);">
                     <div class="container xs-banner-container-parent">
                         <div class="clearfix">
                             <div class="banner-column col-lg-6 col-md-12 col-sm-12">
@@ -30,7 +30,7 @@
                     </div>
                 </div>
 
-                <div class="slide-item" style="background-image: url(/images/banner.png);">
+                <div class="slide-item" style="background-image: url(/images/praxis.jpg);">
                     <div class="container xs-banner-container-parent">
                         <div class="clearfix">
 
@@ -422,7 +422,7 @@
                     <div class="team-block">
                         <div class="inner-box">
                             <div class="image">
-                                <img src="/images/doctor-1.jpeg" alt="">
+                                <img src="/images/L1000086-A.jpg" alt="">
                                 <!-- <div class="overlay-box">
                                     <div class="overlay-inner">
                                         <ul class="team-social-box">
@@ -451,7 +451,7 @@
                     <div class="team-block">
                         <div class="inner-box">
                             <div class="image">
-                                <img src="https://via.placeholder.com/255x255" alt="">
+                                <img src="/images/L1000065-A.jpg" alt="">
                                 <!-- <div class="overlay-box">
                                     <div class="overlay-inner">
                                         <ul class="team-social-box">
@@ -538,7 +538,7 @@
             </div>
         </section>
 
-        <section class="video-section" style="background-image:url(/images/main-bg.jpeg)">
+        <section class="video-section" style="background-image:url(/images/L1000117-A.jpg)">
             <div class="container">
                 <h4>Egal ob Sie zu uns wegen Husten oder Atemnot, COPD oder Asthma und Allergien, Rauchen oder Schnarchen kommen: Neben der optimalen medizinischen Diagnostik ist uns eine umfassende und fürsorgliche Behandlung sehr wichtig.</h4>
                 <!-- <a href="https://www.youtube.com/watch?v=Fvae8nxzVz4" class="play-button" data-fancybox="gallery" data-caption="">
@@ -921,7 +921,7 @@
                     <div class="project-block col-lg-4 col-md-6 col-sm-12">
                         <div class="inner-box">
                             <div class="image">
-                                <img src="/images/1_1.jpg" alt="">
+                                <img src="/images/L1000270-A.jpg" alt="">
 
                                 <div class="overlay-box">
                                     <div class="overlay-inner">
@@ -930,7 +930,7 @@
                                                 <span class="icon icon-heart1"></span>
                                             </div> -->
                                             <!-- <h3><a href="javascript:void(0)">Online-Medizin</a></h3> -->
-                                            <a class="plus" href="images/1_1.jpg" data-fancybox="gallery-1"
+                                            <a class="plus" href="images/L1000270-A.jpg" data-fancybox="gallery-1"
                                                 data-caption=""><span class="flaticon-plus-symbol"></span></a>
                                         </div>
                                     </div>
@@ -942,7 +942,7 @@
                     <div class="project-block col-lg-4 col-md-6 col-sm-12">
                         <div class="inner-box">
                             <div class="image">
-                                <img src="/images/2.jpg" alt="">
+                                <img src="/images/L1000300-A.jpg" alt="">
 
                                 <div class="overlay-box">
                                     <div class="overlay-inner">
@@ -951,7 +951,7 @@
                                                 <span class="icon icon-heart1"></span>
                                             </div> -->
                                             <!-- <h3><a href="javascript:void(0)">Online-Medizin</a></h3> -->
-                                            <a class="plus" href="images/2.jpg" data-fancybox="gallery-1"
+                                            <a class="plus" href="images/L1000300-A.jpg" data-fancybox="gallery-1"
                                                 data-caption=""><span class="flaticon-plus-symbol"></span></a>
                                         </div>
                                     </div>
@@ -963,7 +963,7 @@
                     <div class="project-block col-lg-4 col-md-6 col-sm-12">
                         <div class="inner-box">
                             <div class="image">
-                                <img src="/images/3_1.jpg" alt="">
+                                <img src="/images/L1000218-A.jpg" alt="">
 
                                 <div class="overlay-box">
                                     <div class="overlay-inner">
@@ -972,7 +972,7 @@
                                                 <span class="icon icon-heart1"></span>
                                             </div> -->
                                             <!-- <h3><a href="javascript:void(0)">Online-Medizin</a></h3> -->
-                                            <a class="plus" href="images/3_1.jpg" data-fancybox="gallery-1"
+                                            <a class="plus" href="images/L1000218-A.jpg" data-fancybox="gallery-1"
                                                 data-caption=""><span class="flaticon-plus-symbol"></span></a>
                                         </div>
                                     </div>
@@ -984,7 +984,7 @@
                     <div class="project-block col-lg-4 col-md-6 col-sm-12">
                         <div class="inner-box">
                             <div class="image">
-                                <img src="/images/4_1.jpg" alt="">
+                                <img src="/images/L1000051-A.jpg" alt="">
 
                                 <div class="overlay-box">
                                     <div class="overlay-inner">
@@ -993,7 +993,7 @@
                                                 <span class="icon icon-heart1"></span>
                                             </div> -->
                                             <!-- <h3><a href="javascript:void(0)">Online-Medizin</a></h3> -->
-                                            <a class="plus" href="images/4_1.jpg" data-fancybox="gallery-1"
+                                            <a class="plus" href="images/L1000051-A.jpg" data-fancybox="gallery-1"
                                                 data-caption=""><span class="flaticon-plus-symbol"></span></a>
                                         </div>
                                     </div>
@@ -1005,7 +1005,7 @@
                     <div class="project-block col-lg-4 col-md-6 col-sm-12">
                         <div class="inner-box">
                             <div class="image">
-                                <img src="/images/5_1.jpg" alt="">
+                                <img src="/images/L1000239-A.jpg" alt="">
 
                                 <div class="overlay-box">
                                     <div class="overlay-inner">
@@ -1014,7 +1014,7 @@
                                                 <span class="icon icon-heart1"></span>
                                             </div> -->
                                             <!-- <h3><a href="javascript:void(0)">Online-Medizin</a></h3> -->
-                                            <a class="plus" href="images/5_1.jpg" data-fancybox="gallery-1"
+                                            <a class="plus" href="images/L1000239-A.jpg" data-fancybox="gallery-1"
                                                 data-caption=""><span class="flaticon-plus-symbol"></span></a>
                                         </div>
                                     </div>
@@ -1026,7 +1026,7 @@
                     <div class="project-block col-lg-4 col-md-6 col-sm-12">
                         <div class="inner-box">
                             <div class="image">
-                                <img src="/images/6_1.jpg" alt="">
+                                <img src="https://via.placeholder.com/359x279" alt="">
 
                                 <div class="overlay-box">
                                     <div class="overlay-inner">
@@ -1035,7 +1035,7 @@
                                                 <span class="icon icon-heart1"></span>
                                             </div> -->
                                             <!-- <h3><a href="javascript:void(0)">Online-Medizin</a></h3> -->
-                                            <a class="plus" href="images/6_1.jpg" data-fancybox="gallery-1"
+                                            <a class="plus" href="images/https://via.placeholder.com/359x279" data-fancybox="gallery-1"
                                                 data-caption=""><span class="flaticon-plus-symbol"></span></a>
                                         </div>
                                     </div>
