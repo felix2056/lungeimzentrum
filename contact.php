@@ -140,6 +140,13 @@
 
 
         <section class="map-section" id="map-location">
+            <div class="container">
+                <div class="row">
+                    <div class="inner">
+                        <h4 style="color: black;font-weight: 500;">So finden Sie uns</h4>
+                    </div>
+                </div>
+            </div>
 
             <div class="map-outer">
                 <!-- <div class="google-map" id="contact-google-map" data-map-lat="44.231172" data-map-lng="-76.485954" data-icon-path="images/icons/map-marker.png" data-map-title="Alabama, USA" data-map-zoom="12" data-markers="{
@@ -149,6 +156,18 @@
                 }">
                 </div> -->
                 <iframe style="width:100%" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2694.4807121718177!2d8.535268431424909!3d47.51950343539691!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479075d363896db5%3A0x6615c1ecf5971bac!2sBahnhofstrasse%203%2C%208180%20B%C3%BClach%2C%20Switzerland!5e0!3m2!1sen!2sng!4v1677787080701!5m2!1sen!2sng" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+
+            <div class="container">
+                <div class="row mt-5 mb-5">
+                    <div class="inner" style="line-height: 1;">
+                        <p>Unser Praxis befindet sich in barrierefreien Räumen im Zentrum von Bülach</p><br>
+                        <p><strong>Mit dem ÖV:</strong> Bahnhof Bülach 350m. Gehdistanz entfernt</p><br>
+                        <p> Bushaltestelle Sonnenhof 150m. Gehdistanz entfernt Buslinien( 501, 504, 515, 525, 530, 531, 535, N53)</p><br>
+                        <p><strong>Mit dem Auto:</strong> Eine begrenzte Anzahl an Tiefgaragenparkplätzen ist vorhanden sonst</p><br>
+                        <p>nutzen Sie die gebührenpflichtigen Parkplätze in der unmittelbaren Nähe.</p>
+                    </div>
+                </div>
             </div>
         </section>
 

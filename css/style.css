@@ -5448,7 +5448,7 @@ img {
     text-align: center;
     padding: 160px 0;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: auto;
     background-attachment: fixed;
     background-position: center center
 }

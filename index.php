@@ -422,7 +422,7 @@
                                     <span class="icon icon-heart1"></span>
                                 </div> -->
                                 <h3><a href="/assets/Kuz-CV_Bassam_Atmeh_-_Leitender_Arzt_Pneumologie.pdf" target="_blank">Bassam Atmeh, dipl. Arzt</a></h3>
-                                <p class="designation">Facharzt FMH Pneumologie Facharzt FMH Allgemein Innere Medizin</p>
+                                <p class="designation">Facharzt FMH Pneumologie <br /> Facharzt FMH Allgemein Innere Medizin</p>
                             </div>
                         </div>
                     </div>
@@ -451,7 +451,7 @@
                                     <span class="icon icon-heart1"></span>
                                 </div> -->
                                 <h3><a href="#">Dr. med. Bruno Senn</a></h3>
-                                <p class="designation">Facharzt FMH Pneumologie Facharzt FMH Allgemein Innere Medizin</p>
+                                <p class="designation">Facharzt FMH Pneumologie <br /> Facharzt Allgemein Innere Medizin</p>
                             </div>
                         </div>
                     </div>
@@ -459,7 +459,7 @@
                     <div class="team-block">
                         <div class="inner-box">
                             <div class="image">
-                                <img src="https://via.placeholder.com/255x255" alt="">
+                                <img src="/images/L1000476.jpg" alt="">
                                 <!-- <div class="overlay-box">
                                     <div class="overlay-inner">
                                         <ul class="team-social-box">
@@ -488,7 +488,7 @@
                     <div class="team-block">
                         <div class="inner-box">
                             <div class="image">
-                                <img src="https://via.placeholder.com/255x255" alt="">
+                                <img src="/images/L1000463.jpg" alt="">
                                 <!-- <div class="overlay-box">
                                     <div class="overlay-inner">
                                         <ul class="team-social-box">
