@@ -249,8 +249,8 @@
                                 <h3><a href="#">Lungenfunktion</a></h3>
                                 <span>
                                     <ul>
-                                        <li>- Spirometrie, Bodyplethysmographie (grosse Lungenfunktion)</li>
-                                        <li>- CO-Diffusionsmessung (Messung des Gasaustausches)</li>
+                                        <li>- Spirometrie, Bodyplethysmographie <br /> (grosse Lungenfunktion)</li>
+                                        <li>- CO-Diffusionsmessung <br /> (Messung des Gasaustausches)</li>
                                         <li>- Spasmolysetest</li>
                                         <li>- Inhalative Provokation mit Metacholin</li>
                                         <li>- FeNO-Test (NO-Messung in der Ausatemluft)</li>
@@ -315,7 +315,7 @@
                                     <ul>
                                         <li>- Hauttestung (Prick-Test)</li>
                                         <li>- Serologie (Blutanalyse)</li>
-                                        <li>- Desensibilisierung (subkutan/sublingual)</li>
+                                        <li>- Desensibilisierung <br /> (subkutan/sublingual)</li>
                                     </ul>
                                 </span>
                             </div>
@@ -333,10 +333,10 @@
                                 <h3><a href="#">Endoskopie</a></h3>
                                 <span>
                                     <ul>
-                                        <li>- Bronchoskopie mit transbronchialer Biopsie und bronchioalveolärer Lavage</li>
+                                        <li>- Bronchoskopie mit transbronchialer Biopsie <br /> und bronchioalveolärer Lavage</li>
                                         <li>- Endobronchialer Ultraschall mit transbronchialerFeinnadelPunktion</li>
-                                        <li>- Thorakoskopie mit Pleurodese</li>
-                                        <li>- Endoskopische Eingriffe führen wir als Konsiliar/Belegärzte am Spital Bülach</li>
+                                        <li>- Thorakoskopie mit Pleurodese</li> <br />
+                                        <li>. Endoskopische Eingriffe führen wir als Konsiliar/Belegärzte am Spital Bülach</li>
                                     </ul>
                                 </span>
                             </div>
@@ -375,7 +375,7 @@
                                 <span>
                                     <ul>
                                         <li>- Präsenzdiagnostik</li>
-                                        <li>- Arterielle Blutgasanalyse (Einstellung der Sauerstoff-Therapie)</li>
+                                        <li>- Arterielle Blutgasanalyse <br /> (Einstellung der Sauerstoff-Therapie)</li>
                                     </ul>
                                 </span>
                             </div>
@@ -401,7 +401,7 @@
                     <div class="team-block">
                         <div class="inner-box">
                             <div class="image">
-                                <img src="/images/L1000086-A.jpg" alt="">
+                                <img src="/images/L1000391-A.jpg" alt="">
                                 <!-- <div class="overlay-box">
                                     <div class="overlay-inner">
                                         <ul class="team-social-box">
@@ -984,7 +984,7 @@
                     <div class="project-block col-lg-4 col-md-6 col-sm-12">
                         <div class="inner-box">
                             <div class="image">
-                                <img src="/images/L1000239-A.jpg" alt="">
+                                <img src="/images/bruno.png" alt="">
 
                                 <div class="overlay-box">
                                     <div class="overlay-inner">
@@ -993,7 +993,7 @@
                                                 <span class="icon icon-heart1"></span>
                                             </div> -->
                                             <!-- <h3><a href="javascript:void(0)">Online-Medizin</a></h3> -->
-                                            <a class="plus" href="images/L1000239-A.jpg" data-fancybox="gallery-1"
+                                            <a class="plus" href="images/bruno.png" data-fancybox="gallery-1"
                                                 data-caption=""><span class="flaticon-plus-symbol"></span></a>
                                         </div>
                                     </div>
@@ -1005,7 +1005,7 @@
                     <div class="project-block col-lg-4 col-md-6 col-sm-12">
                         <div class="inner-box">
                             <div class="image">
-                                <img src="https://via.placeholder.com/359x279" alt="">
+                                <img src="/images/L1000416.jpg" alt="">
 
                                 <div class="overlay-box">
                                     <div class="overlay-inner">
@@ -1014,7 +1014,7 @@
                                                 <span class="icon icon-heart1"></span>
                                             </div> -->
                                             <!-- <h3><a href="javascript:void(0)">Online-Medizin</a></h3> -->
-                                            <a class="plus" href="images/https://via.placeholder.com/359x279" data-fancybox="gallery-1"
+                                            <a class="plus" href="/images/L1000416.jpg" data-fancybox="gallery-1"
                                                 data-caption=""><span class="flaticon-plus-symbol"></span></a>
                                         </div>
                                     </div>
