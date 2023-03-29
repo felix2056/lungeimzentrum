@@ -3399,8 +3399,8 @@ img {
     top: 0;
     height: 340px;
     width: 100%;
-    background-attachment: fixed;
-    background-size: auto;
+    /* background-attachment: fixed; */
+    background-size: cover;
     background-repeat: no-repeat
 }
 
