@@ -401,7 +401,7 @@
                     <div class="team-block">
                         <div class="inner-box">
                             <div class="image">
-                                <img src="/images/L1000391-A.jpg" alt="">
+                                <img src="/images/L1000391.jpg" alt="">
                                 <!-- <div class="overlay-box">
                                     <div class="overlay-inner">
                                         <ul class="team-social-box">
