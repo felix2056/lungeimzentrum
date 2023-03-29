@@ -334,8 +334,8 @@
                                 <span>
                                     <ul>
                                         <li>- Bronchoskopie mit transbronchialer Biopsie <br /> und bronchioalveolärer Lavage</li>
-                                        <li>- Endobronchialer Ultraschall mit transbronchialerFeinnadelPunktion</li>
-                                        <li>- Thorakoskopie mit Pleurodese</li> <br />
+                                        <li>- Endobronchialer Ultraschall mit transbronchialer Feinnadel Punktion</li>
+                                        <li>- Thorakoskopie mit Pleurodese</li>
                                         <li>. Endoskopische Eingriffe führen wir als Konsiliar/Belegärzte am Spital Bülach</li>
                                     </ul>
                                 </span>
@@ -356,7 +356,7 @@
                                     <ul>
                                         <li>- Nächtliche Sauerstoffmessung (Pulsoxymetrie)</li>
                                         <li>- Nächtliche respiratorische Polygraphie</li>
-                                        <li>- Einstellung nächtliche CPAP, ASV-oder BiPAP-Therapie</li>
+                                        <li>- Einstellung nächtliche CPAP, ASV-oder <br /> BiPAP-Therapie</li>
                                     </ul>
                                 </span>
                             </div>
@@ -421,7 +421,7 @@
                                 <!-- <div class="icon-box">
                                     <span class="icon icon-heart1"></span>
                                 </div> -->
-                                <h3><a href="/assets/Kuz-CV_Bassam_Atmeh_-_Leitender_Arzt_Pneumologie.jpg" target="_blank">Bassam Atmeh, dipl. Arzt</a></h3>
+                                <h3><a href="/assets/bassam-cv.jpg" target="_blank">Bassam Atmeh, dipl. Arzt</a></h3>
                                 <p class="designation">Facharzt FMH Pneumologie <br /> Facharzt FMH Allgemein Innere Medizin</p>
                             </div>
                         </div>
@@ -450,7 +450,7 @@
                                 <!-- <div class="icon-box">
                                     <span class="icon icon-heart1"></span>
                                 </div> -->
-                                <h3><a href="#">Dr. med. Bruno Senn</a></h3>
+                                <h3><a href="/assets/bruno-cv.jpg" target="_blank">Dr. med. Bruno Senn</a></h3>
                                 <p class="designation">Facharzt FMH Pneumologie <br /> Facharzt Allgemein Innere Medizin</p>
                             </div>
                         </div>
