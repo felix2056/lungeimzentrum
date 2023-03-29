@@ -3400,7 +3400,7 @@ img {
     height: 340px;
     width: 100%;
     background-attachment: fixed;
-    background-size: cover;
+    background-size: auto;
     background-repeat: no-repeat
 }
 

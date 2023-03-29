@@ -909,7 +909,7 @@
                                                 <span class="icon icon-heart1"></span>
                                             </div> -->
                                             <!-- <h3><a href="javascript:void(0)">Online-Medizin</a></h3> -->
-                                            <a class="plus" href="images/L1000270-A.jpg" data-fancybox="gallery-1"
+                                            <a class="plus" href="/images/L1000270-A.jpg" data-fancybox="gallery-1"
                                                 data-caption=""><span class="flaticon-plus-symbol"></span></a>
                                         </div>
                                     </div>
@@ -930,7 +930,7 @@
                                                 <span class="icon icon-heart1"></span>
                                             </div> -->
                                             <!-- <h3><a href="javascript:void(0)">Online-Medizin</a></h3> -->
-                                            <a class="plus" href="images/L1000300-A.jpg" data-fancybox="gallery-1"
+                                            <a class="plus" href="/images/L1000300-A.jpg" data-fancybox="gallery-1"
                                                 data-caption=""><span class="flaticon-plus-symbol"></span></a>
                                         </div>
                                     </div>
@@ -951,7 +951,7 @@
                                                 <span class="icon icon-heart1"></span>
                                             </div> -->
                                             <!-- <h3><a href="javascript:void(0)">Online-Medizin</a></h3> -->
-                                            <a class="plus" href="images/L1000218-A.jpg" data-fancybox="gallery-1"
+                                            <a class="plus" href="/images/L1000218-A.jpg" data-fancybox="gallery-1"
                                                 data-caption=""><span class="flaticon-plus-symbol"></span></a>
                                         </div>
                                     </div>
@@ -963,7 +963,7 @@
                     <div class="project-block col-lg-4 col-md-6 col-sm-12">
                         <div class="inner-box">
                             <div class="image">
-                                <img src="/images/L1000051-A.jpg" alt="">
+                                <img src="/images/L1000117-A.jpg" alt="">
 
                                 <div class="overlay-box">
                                     <div class="overlay-inner">
@@ -972,7 +972,7 @@
                                                 <span class="icon icon-heart1"></span>
                                             </div> -->
                                             <!-- <h3><a href="javascript:void(0)">Online-Medizin</a></h3> -->
-                                            <a class="plus" href="images/L1000051-A.jpg" data-fancybox="gallery-1"
+                                            <a class="plus" href="/images/L1000117-A.jpg" data-fancybox="gallery-1"
                                                 data-caption=""><span class="flaticon-plus-symbol"></span></a>
                                         </div>
                                     </div>
@@ -993,7 +993,7 @@
                                                 <span class="icon icon-heart1"></span>
                                             </div> -->
                                             <!-- <h3><a href="javascript:void(0)">Online-Medizin</a></h3> -->
-                                            <a class="plus" href="images/bruno.png" data-fancybox="gallery-1"
+                                            <a class="plus" href="/images/bruno.png" data-fancybox="gallery-1"
                                                 data-caption=""><span class="flaticon-plus-symbol"></span></a>
                                         </div>
                                     </div>
