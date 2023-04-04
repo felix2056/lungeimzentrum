@@ -293,9 +293,9 @@
                                 <h3><a href="#">Ultraschall</a></h3>
                                 <span>
                                     <ul>
-                                        <li>- Pleurasonoographie</li>
+                                        <li>- Pleurasonographie</li>
                                         <li>- Pleurapunktion (diagnostisch/therapeutisch)</li>
-                                        <li>- Pleurx-Katheter-Einlage (ambulant sowie Stationär)</li>
+                                        <li>- PleurX-Katheter-Einlage (ambulant sowie stationär)</li>
                                     </ul>
                                 </span>
                             </div>
