@@ -66,7 +66,7 @@
                             <li>Mo bis Fr: 8:00 – 12:00</li>
                             <li>Mo bis Fr: 13:00 – 17:00</li>
                         </ul>
-                        <p class="mt-5rem">Notfälle ausserhalb der Sprechstundenzeiten bitten wir Sie, die Nummer des Aerztefon 0800 33 66 55 (kostenlos) zu wählen.</p>
+                        <p class="mt-5rem">Für Notfälle ausserhalb der Sprechstundenzeiten bitten wir Sie, die Nummer des Aerztefon 0800 33 66 55 (kostenlos) zu wählen.</p>
                     </div>
                 </div>
             </div>
