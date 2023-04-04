@@ -274,7 +274,7 @@
                                     <ul>
                                         <li>- Ergospirometrie</li>
                                         <li>- Ergometrie</li>
-                                        <li>- EIA-Test (Anstrengungsinduziertees Asthma)</li>
+                                        <li>- EIA-Test (Anstrengungsinduziertes Asthma)</li>
                                         <li>- 6-Minuten-Gehtest</li>
                                     </ul>
                                 </span>
@@ -336,7 +336,7 @@
                                         <li>- Bronchoskopie mit transbronchialer Biopsie <br /> und bronchioalveolärer Lavage</li>
                                         <li>- Endobronchialer Ultraschall mit transbronchialer Feinnadel Punktion</li>
                                         <li>- Thorakoskopie mit Pleurodese</li>
-                                        <li>. Endoskopische Eingriffe führen wir als Konsiliar/Belegärzte am Spital Bülach</li>
+                                        <li>- Endoskopische Eingriffe führen wir als Konsiliar/Belegärzte am Spital Bülach</li>
                                     </ul>
                                 </span>
                             </div>
